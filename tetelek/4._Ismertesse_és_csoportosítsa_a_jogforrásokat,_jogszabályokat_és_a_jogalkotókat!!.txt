@@ -1,0 +1,95 @@
+<h2>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ismertesse &eacute;s csoportos&iacute;tsa a jogforr&aacute;sokat, jogszab&aacute;lyokat &eacute;s a jogalkot&oacute;kat!!</h2>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Jogforr&aacute;sok</strong></p>
+<p>A jogforr&aacute;sok azok az eszk&ouml;z&ouml;k, amelyekből a jogi norm&aacute;k sz&aacute;rmaznak. Ezek meghat&aacute;rozz&aacute;k a jog &eacute;rv&eacute;nyess&eacute;g&eacute;nek alapj&aacute;t, a jogi norm&aacute;k megalkot&aacute;s&aacute;nak, alkalmaz&aacute;s&aacute;nak m&oacute;dj&aacute;t, &eacute;s biztos&iacute;tj&aacute;k a jogi szab&aacute;lyoz&aacute;s alapj&aacute;t a t&aacute;rsadalomban.</p>
+<p><strong>Jogforr&aacute;sok csoportos&iacute;t&aacute;sa</strong></p>
+<ol>
+<li><strong>Anyagi (materi&aacute;lis) jogforr&aacute;sok:</strong></li>
+<ul>
+<li>azok a t&eacute;nyezők, amelyekből a <strong>jog tartalmi</strong>lag sz&aacute;rmazik. M&aacute;sk&eacute;ppen fogalmazva, ezek azok az alapvető t&aacute;rsadalmi, gazdas&aacute;gi, politikai &eacute;s kultur&aacute;lis k&ouml;r&uuml;lm&eacute;nyek, amelyek <strong>befoly&aacute;solj&aacute;k, hogy milyen jogszab&aacute;lyok sz&uuml;letnek, &eacute;s milyen jogi norm&aacute;k lesznek hat&aacute;lyban</strong>.</li>
+<li><strong>P&eacute;lda:</strong> A t&aacute;rsadalmi szok&aacute;sok vagy politikai t&ouml;rekv&eacute;sek hat&aacute;sa a jogi szab&aacute;lyoz&aacute;sra, p&eacute;ld&aacute;ul a csal&aacute;djogi t&ouml;rv&eacute;nyekben a t&aacute;rsadalmi &eacute;rt&eacute;krend t&uuml;kr&ouml;ződ&eacute;se.</li>
+</ul>
+<li><strong>Alaki (form&aacute;lis) jogforr&aacute;sok:</strong></li>
+<ul>
+<li>Azok az eszk&ouml;z&ouml;k, amelyekben a <strong>jog megjelenik</strong>, &eacute;s amelyeken kereszt&uuml;l &eacute;rv&eacute;nyes&iacute;thető.</li>
+<li>l&eacute;nyege, hogy egy&eacute;rtelműv&eacute; teszik, honnan ered egy adott jogszab&aacute;ly, hat&aacute;rozat vagy m&aacute;s jogi norma, &eacute;s milyen jogi alapja van annak. Ha p&eacute;ld&aacute;ul <strong>kapsz egy hat&aacute;rozatot</strong>, akkor az <strong>alaki jogforr&aacute;s</strong> megmutatja, hogy a hat&aacute;rozat melyik jogszab&aacute;lyra vagy rendeletre alapozva sz&uuml;letett, milyen hat&oacute;s&aacute;g vagy szerv jogosult ilyen d&ouml;nt&eacute;st hozni, vagy hivatalosan kihirdett&eacute;k-e, &eacute;s &iacute;gy k&ouml;telező &eacute;rv&eacute;nyű-e.</li>
+<li><strong>P&eacute;lda:</strong> <strong>Az Alapt&ouml;rv&eacute;ny</strong> mint a <strong>jog legfelsőbb szintű megjelen&eacute;si form&aacute;ja</strong>.</li>
+</ul>
+<li><strong>K&uuml;lső &eacute;s belső jogforr&aacute;sok:</strong></li>
+<ul>
+<li><strong>K&uuml;lső jogforr&aacute;s (Gnoszeol&oacute;giai jogforr&aacute;sok):</strong> A jogi norm&aacute;k megjelen&eacute;si form&aacute;i, vagyis azok az eszk&ouml;z&ouml;k, amelyekben a jogszab&aacute;lyok hivatalosan megjelennek. Ezeket gyakran <strong>alaki (form&aacute;lis)</strong> jogforr&aacute;soknak is nevezik.</li>
+<li><strong>Belső jogforr&aacute;s (Genetikus jogforr&aacute;sok):</strong> A jog tartalm&aacute;nak alapj&aacute;t k&eacute;pező t&aacute;rsadalmi, gazdas&aacute;gi, politikai &eacute;s kultur&aacute;lis t&eacute;nyezők. Ezeket <strong>anyagi (materi&aacute;lis)</strong> jogforr&aacute;soknak is h&iacute;vjuk.</li>
+</ul>
+</ol>
+<p><strong>&Ouml;sszegz&eacute;s</strong></p>
+<p>&aacute;ltal&aacute;ban azokat a t&eacute;nyezőket, eszk&ouml;z&ouml;ket &eacute;s form&aacute;kat jelentik, amelyekből a jogi norm&aacute;k sz&aacute;rmaznak vagy amelyekben megjelennek. A jogforr&aacute;sok meghat&aacute;rozz&aacute;k a jog eredet&eacute;t, &eacute;rv&eacute;nyess&eacute;g&eacute;t, &eacute;s biztos&iacute;tj&aacute;k, hogy a jog a t&aacute;rsadalomban bet&ouml;ltse szab&aacute;lyoz&oacute; szerep&eacute;t.</p>
+<p><img src="img_tetelek/4_Osszegzes.png" alt="4_Osszegzes" /></p>
+<p>&nbsp;</p>
+<p><strong>Jogszab&aacute;lyok</strong></p>
+<p>A jogszab&aacute;lyok az <strong>&aacute;llami</strong> <strong>szervek</strong> &aacute;ltal <strong>kibocs&aacute;tott</strong>, <strong>mindenki</strong> <strong>sz&aacute;m&aacute;ra</strong> <strong>k&ouml;telező</strong> magatart&aacute;si szab&aacute;lyok. Ezek biztos&iacute;tj&aacute;k a <strong>t&aacute;rsadalmi</strong> <strong>rend</strong> <strong>fenntart&aacute;s&aacute;t</strong> &eacute;s a <strong>jogegyenlős&eacute;g</strong> elv&eacute;t.</p>
+<p><strong>Jogszab&aacute;lyok hierarchi&aacute;ja</strong></p>
+<ol>
+<li><strong>Alapt&ouml;rv&eacute;ny [pl. tulajdonhoz val&oacute; jog (XIII. cikk)]:</strong></li>
+<ul>
+<li>Meghat&aacute;rozza a jogrendszer alapelveit, az &aacute;llami műk&ouml;d&eacute;s kereteit, &eacute;s garant&aacute;lja az alapvető jogokat.</li>
+<li><strong>P&eacute;lda:</strong> Az emberi m&eacute;lt&oacute;s&aacute;g tiszteletben tart&aacute;sa az Alapt&ouml;rv&eacute;nyben.</li>
+</ul>
+<li><strong>T&ouml;rv&eacute;nyek:</strong></li>
+<ul>
+<li>Az Orsz&aacute;ggyűl&eacute;s &aacute;ltal megalkotott jogszab&aacute;lyok, amelyek r&eacute;szletesen szab&aacute;lyozz&aacute;k az &eacute;let k&uuml;l&ouml;nb&ouml;ző ter&uuml;leteit.</li>
+<li><strong>P&eacute;lda:</strong> B&uuml;ntető T&ouml;rv&eacute;nyk&ouml;nyv, amely meghat&aacute;rozza a bűncselekm&eacute;nyek &eacute;s a b&uuml;ntet&eacute;sek szab&aacute;lyait.</li>
+</ul>
+<li><strong>Rendeletek:</strong></li>
+<ul>
+<li>A t&ouml;rv&eacute;nyek v&eacute;grehajt&aacute;s&aacute;ra szolg&aacute;lnak, &eacute;s r&eacute;szletezik azok alkalmaz&aacute;s&aacute;t.</li>
+<li><strong>P&eacute;lda:</strong> A helyi &ouml;nkorm&aacute;nyzatok &aacute;ltal kiadott parkol&aacute;si szab&aacute;lyok.</li>
+</ul>
+<li><strong>K&ouml;zjogi szervezetszab&aacute;lyoz&oacute; eszk&ouml;z&ouml;k:</strong></li>
+<ul>
+<li>Nem jogszab&aacute;lyi form&aacute;ban l&eacute;tező norm&aacute;k, p&eacute;ld&aacute;ul miniszteri <strong>utas&iacute;t&aacute;sok vagy </strong>korm&aacute;ny<strong>hat&aacute;rozatok</strong>.</li>
+</ul>
+</ol>
+<p><strong>Jogszab&aacute;lyok &eacute;rv&eacute;nyess&eacute;g&eacute;nek felt&eacute;telei</strong></p>
+<ul>
+<li>A megfelelő jogalkot&oacute; szerv hozta l&eacute;tre.</li>
+<li>Az alkot&aacute;s sor&aacute;n betartott&aacute;k az elj&aacute;r&aacute;si szab&aacute;lyokat.</li>
+<li>Az adott jogszab&aacute;ly magasabb szintű jogszab&aacute;lyokkal &ouml;sszhangban van.</li>
+<li>Hivatalosan kihirdett&eacute;k.</li>
+</ul>
+<p><strong>Jogalkot&oacute;k</strong></p>
+<p>A jogalkot&oacute;k az &aacute;llami szervek, amelyek <strong>felhatalmaz&aacute;suk alapj&aacute;n jogszab&aacute;lyokat alkotnak</strong>.</p>
+<p><strong>Főbb jogalkot&oacute;k &eacute;s hat&aacute;sk&ouml;reik</strong></p>
+<ol>
+<li><strong>Orsz&aacute;ggyűl&eacute;s:</strong></li>
+<ul>
+<li>Magyarorsz&aacute;g legfőbb jogalkot&oacute; szerve, amely az Alapt&ouml;rv&eacute;ny &eacute;s t&ouml;rv&eacute;nyek megalkot&aacute;s&aacute;&eacute;rt felelős.</li>
+<li><strong>P&eacute;lda:</strong> Az Orsz&aacute;ggyűl&eacute;s alkotja meg a B&uuml;ntető T&ouml;rv&eacute;nyk&ouml;nyvet.</li>
+</ul>
+<li><strong>Korm&aacute;ny:</strong></li>
+<ul>
+<li>A t&ouml;rv&eacute;nyek v&eacute;grehajt&aacute;sa &eacute;rdek&eacute;ben rendeleteket hoz.</li>
+<li><strong>P&eacute;lda:</strong> Egy korm&aacute;nyrendelet szab&aacute;lyozhatja a j&aacute;rv&aacute;ny&uuml;gyi int&eacute;zked&eacute;seket.</li>
+</ul>
+<li><strong>Minisztereln&ouml;k &eacute;s miniszterek:</strong></li>
+<ul>
+<li>Saj&aacute;t feladatk&ouml;r&uuml;kben rendeleteket adhatnak ki.</li>
+<li><strong>P&eacute;lda:</strong> Az eg&eacute;szs&eacute;g&uuml;gyi miniszter rendelete szab&aacute;lyozhatja az orvosi eszk&ouml;z&ouml;k haszn&aacute;lat&aacute;t.</li>
+</ul>
+<li><strong>&Ouml;nkorm&aacute;nyzatok:</strong></li>
+<ul>
+<li>Helyi szinten szab&aacute;lyozz&aacute;k az adott ter&uuml;let műk&ouml;d&eacute;s&eacute;t &eacute;s a lakoss&aacute;got &eacute;rintő k&eacute;rd&eacute;seket.</li>
+<li><strong>P&eacute;lda:</strong> A hullad&eacute;kgyűjt&eacute;si szab&aacute;lyokr&oacute;l sz&oacute;l&oacute; &ouml;nkorm&aacute;nyzati rendeletek.</li>
+</ul>
+<li><strong>Egy&eacute;b jogalkot&oacute;k:</strong></li>
+<ul>
+<li><strong>Magyar Nemzeti Bank eln&ouml;ke:</strong> Kiadja a monet&aacute;ris politik&aacute;val kapcsolatos rendeleteket.</li>
+<li><strong>&Ouml;n&aacute;ll&oacute; szab&aacute;lyoz&oacute; szervek:</strong> P&eacute;ld&aacute;ul a M&eacute;dia- &eacute;s H&iacute;rk&ouml;zl&eacute;si Hat&oacute;s&aacute;g szab&aacute;lyai.</li>
+</ul>
+</ol>
+<p><strong>P&eacute;ld&aacute;k a gyakorlatb&oacute;l</strong></p>
+<ul>
+<li><strong>Jogforr&aacute;sok:</strong> Az Alapt&ouml;rv&eacute;nyben meghat&aacute;rozott alapelvek, p&eacute;ld&aacute;ul a jogbiztons&aacute;g, amely garant&aacute;lja a kisz&aacute;m&iacute;that&oacute; &eacute;s stabil jogrendszert.</li>
+<li><strong>Jogszab&aacute;lyok:</strong> A Munka T&ouml;rv&eacute;nyk&ouml;nyve r&eacute;szletesen szab&aacute;lyozza a munk&aacute;ltat&oacute;k &eacute;s munkav&aacute;llal&oacute;k k&ouml;z&ouml;tti jogviszonyokat.</li>
+</ul>
+<p><strong>Jogalkot&oacute;k:</strong> A helyi &ouml;nkorm&aacute;nyzatok rendeleteikkel szab&aacute;lyozz&aacute;k a k&ouml;zter&uuml;letek haszn&aacute;lat&aacute;t &eacute;s a zajszennyez&eacute;st.</p>
+<p>&nbsp;</p>

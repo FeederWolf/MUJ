@@ -1,0 +1,203 @@
+<h2>11.&nbsp;&nbsp;&nbsp;&nbsp; Hasonl&iacute;tsa &ouml;ssze a k&ouml;zkereseti t&aacute;rsas&aacute;g, a bet&eacute;ti t&aacute;rsas&aacute;g, a korl&aacute;tolt felelőss&eacute;gű t&aacute;rsas&aacute;g &eacute;s a r&eacute;szv&eacute;nyt&aacute;rsas&aacute;gok szab&aacute;lyoz&aacute;s&aacute;t a Ptk. alapj&aacute;n!</h2>
+<p>&nbsp;</p>
+<p><strong>[Kapcsol&oacute;d&oacute; Ptk. Szakaszok]</strong></p>
+<p>&nbsp;</p>
+<ol>
+<li><strong> K&ouml;zkereseti t&aacute;rsas&aacute;g (kkt.) [3:89. &sect; &ndash; 3:101. &sect;]</strong></li>
+</ol>
+<ul>
+<li><strong>Fogalma</strong>: Olyan t&aacute;rsas&aacute;g, amelynek tagjai korl&aacute;tlanul &eacute;s egyetemlegesen felelnek a t&aacute;rsas&aacute;g k&ouml;telezetts&eacute;gei&eacute;rt.</li>
+<li><strong>L&eacute;tes&iacute;t&eacute;se</strong>: T&aacute;rsas&aacute;gi szerződ&eacute;ssel, amelyben a tagok meg&aacute;llapodnak a vagyoni hozz&aacute;j&aacute;rul&aacute;sr&oacute;l.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A tagok korl&aacute;tlanul &eacute;s egyetemlegesen felelnek a t&aacute;rsas&aacute;g vagyon&aacute;n fel&uuml;li k&ouml;telezetts&eacute;gek&eacute;rt.</li>
+<li>A bel&eacute;pő tag a kor&aacute;bbi k&ouml;telezetts&eacute;gek&eacute;rt is felel.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>A tagok k&ouml;z&ouml;sen d&ouml;ntenek, de kijel&ouml;lhetnek egy vagy t&ouml;bb &uuml;gyvezetőt is.</li>
+<li>Az &uuml;gyvezetők &ouml;n&aacute;ll&oacute;an j&aacute;rhatnak el, de tiltakoz&aacute;s eset&eacute;n a tagok gyűl&eacute;se d&ouml;nt.</li>
+</ul>
+<li><strong>Jogut&oacute;d n&eacute;lk&uuml;li megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha a tagok sz&aacute;ma egy főre cs&ouml;kken, &eacute;s hat h&oacute;napon bel&uuml;l nem csatlakozik &uacute;j tag.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ol start="2">
+<li><strong> Bet&eacute;ti t&aacute;rsas&aacute;g (bt.) [3:121. &sect; &ndash; 3:133. &sect;]</strong></li>
+</ol>
+<ul>
+<li><strong>Fogalma</strong>: Olyan t&aacute;rsas&aacute;g, amelyben legal&aacute;bb egy tag (beltag) korl&aacute;tlanul &eacute;s egyetemlegesen felel, m&iacute;g a t&ouml;bbi tag (k&uuml;ltag) felelőss&eacute;ge korl&aacute;tozott.</li>
+<li><strong>L&eacute;tes&iacute;t&eacute;se</strong>: T&aacute;rsas&aacute;gi szerződ&eacute;ssel, hasonl&oacute;an a kkt.-hez.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A beltagok felelőss&eacute;ge korl&aacute;tlan &eacute;s egyetemleges.</li>
+<li>A k&uuml;ltagok a vagyoni hozz&aacute;j&aacute;rul&aacute;suk m&eacute;rt&eacute;k&eacute;ig felelnek.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>Csak a beltagok lehetnek &uuml;gyvezetők.</li>
+<li>A k&uuml;ltag nem vehet r&eacute;szt a t&aacute;rsas&aacute;g &uuml;gyvezet&eacute;s&eacute;ben, de tan&aacute;cskoz&aacute;si joga van.</li>
+</ul>
+<li><strong>Jogut&oacute;d n&eacute;lk&uuml;li megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha valamennyi beltag vagy k&uuml;ltag tags&aacute;gi jogviszonya megszűnik, &eacute;s hat h&oacute;napon bel&uuml;l nem &aacute;ll&iacute;tj&aacute;k helyre a műk&ouml;d&eacute;s felt&eacute;teleit.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ol start="3">
+<li><strong> Korl&aacute;tolt felelőss&eacute;gű t&aacute;rsas&aacute;g (kft.) [3:159. &sect; &ndash; 3:186. &sect;]</strong></li>
+</ol>
+<ul>
+<li><strong>Fogalma</strong>: Olyan t&aacute;rsas&aacute;g, amely előre meghat&aacute;rozott t&ouml;rzstők&eacute;vel alakul, &eacute;s a tagok felelőss&eacute;ge a vagyoni hozz&aacute;j&aacute;rul&aacute;sukra korl&aacute;toz&oacute;dik.</li>
+<li><strong>L&eacute;tes&iacute;t&eacute;se</strong>: T&aacute;rsas&aacute;gi szerződ&eacute;ssel vagy alap&iacute;t&oacute; okirattal (egyszem&eacute;lyes kft. eset&eacute;n).</li>
+<li><strong>T&ouml;rzstőke &eacute;s t&ouml;rzsbet&eacute;tek</strong>:</li>
+<ul>
+<li>A t&ouml;rzstőke minimum 3 milli&oacute; forint.</li>
+<li>Egy tag egy t&ouml;rzsbet&eacute;ttel rendelkezhet, amely minimum 100 000 forint lehet.</li>
+</ul>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A tagok a t&ouml;rzstőke teljes&iacute;t&eacute;se ut&aacute;n nem felelnek a t&aacute;rsas&aacute;g k&ouml;telezetts&eacute;gei&eacute;rt.</li>
+<li>A be nem fizetett t&ouml;rzsbet&eacute;tek m&eacute;rt&eacute;k&eacute;ig felelősek lehetnek.</li>
+</ul>
+<li><strong>&Uuml;zletr&eacute;sz</strong>:</li>
+<ul>
+<li>A tags&aacute;gi jogokat &eacute;s k&ouml;telezetts&eacute;geket az &uuml;zletr&eacute;sz testes&iacute;ti meg.</li>
+<li>Az &uuml;zletr&eacute;sz &aacute;truh&aacute;zhat&oacute;, &eacute;s &ouml;r&ouml;k&ouml;lhető.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>A t&aacute;rsas&aacute;g &uuml;gyvezet&eacute;s&eacute;t egy vagy t&ouml;bb &uuml;gyvezető l&aacute;tja el.</li>
+</ul>
+<li><strong>Jogut&oacute;d n&eacute;lk&uuml;li megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha a t&ouml;rzstőke nem &eacute;ri el a minim&aacute;lis &ouml;sszeget, &eacute;s ezt nem p&oacute;tolj&aacute;k.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ol start="4">
+<li><strong> R&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (rt.) [3:209. &sect; &ndash; 3:279. &sect;]</strong></li>
+</ol>
+<ul>
+<li><strong>Fogalma</strong>: Olyan t&aacute;rsas&aacute;g, amely előre meghat&aacute;rozott alaptők&eacute;vel műk&ouml;dik, &eacute;s a r&eacute;szv&eacute;nyesek felelőss&eacute;ge a r&eacute;szv&eacute;ny&uuml;k n&eacute;v&eacute;rt&eacute;k&eacute;re korl&aacute;toz&oacute;dik.</li>
+<li><strong>T&iacute;pusai</strong>:</li>
+<ul>
+<li><strong>Z&aacute;rtk&ouml;rűen műk&ouml;dő r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (zrt.)</strong>: Az alaptőke legal&aacute;bb 5 milli&oacute; forint.</li>
+<li><strong>Nyilv&aacute;nosan műk&ouml;dő r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (nrt.)</strong>: Az alaptőke legal&aacute;bb 20 milli&oacute; forint, &eacute;s r&eacute;szv&eacute;nyeit tőzsd&eacute;n jegyzik.</li>
+</ul>
+<li><strong>Alaptőke &eacute;s r&eacute;szv&eacute;nyek</strong>:</li>
+<ul>
+<li>Az alaptők&eacute;t r&eacute;szv&eacute;nyek testes&iacute;tik meg.</li>
+<li>A r&eacute;szv&eacute;nyek t&iacute;pusa lehet t&ouml;rzsr&eacute;szv&eacute;ny, elsőbbs&eacute;gi r&eacute;szv&eacute;ny, dolgoz&oacute;i r&eacute;szv&eacute;ny stb.</li>
+</ul>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A r&eacute;szv&eacute;nyesek a t&aacute;rsas&aacute;g k&ouml;telezetts&eacute;gei&eacute;rt nem felelnek.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>A zrt.-ben az &uuml;gyvezet&eacute;st az igazgat&oacute;s&aacute;g l&aacute;tja el.</li>
+<li>Az nrt.-ben k&ouml;telező fel&uuml;gyelőbizotts&aacute;g műk&ouml;dtet&eacute;se.</li>
+</ul>
+<li><strong>Jogut&oacute;d n&eacute;lk&uuml;li megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha a r&eacute;szv&eacute;nyek kibocs&aacute;t&aacute;s&aacute;b&oacute;l sz&aacute;rmaz&oacute; alaptőke nem &eacute;ri el a minim&aacute;lis &ouml;sszeget.</li>
+</ul>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>K&ouml;zkereseti t&aacute;rsas&aacute;g (kkt.) &ndash; R&eacute;szletes p&eacute;lda</strong></p>
+<p><strong>P&eacute;lda: P&eacute;ks&eacute;g &uuml;zemeltet&eacute;se</strong></p>
+<ul>
+<li>K&eacute;t bar&aacute;t, Anna &eacute;s B&eacute;la k&ouml;z&ouml;sen alap&iacute;tanak egy k&ouml;zkereseti t&aacute;rsas&aacute;got egy p&eacute;ks&eacute;g &uuml;zemeltet&eacute;s&eacute;re.</li>
+<li>Mindketten v&aacute;llalj&aacute;k, hogy egyenlő m&eacute;rt&eacute;kben hozz&aacute;j&aacute;rulnak a műk&ouml;d&eacute;shez, p&eacute;ld&aacute;ul Anna a s&uuml;tőg&eacute;peket hozza, B&eacute;la pedig a bolti k&eacute;szleteket finansz&iacute;rozza.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A p&eacute;ks&eacute;g nem tudja időben kifizetni az alapanyag-besz&aacute;ll&iacute;t&oacute;t. A besz&aacute;ll&iacute;t&oacute; jogosult Anna &eacute;s B&eacute;la teljes vagyon&aacute;t ig&eacute;nybe venni a tartoz&aacute;s kiegyenl&iacute;t&eacute;s&eacute;re, ha a t&aacute;rsas&aacute;g vagyona nem elegendő.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>Anna &eacute;s B&eacute;la k&ouml;z&ouml;sen d&ouml;ntenek az &uuml;zletvezet&eacute;sről, p&eacute;ld&aacute;ul az &aacute;rk&eacute;pz&eacute;sről vagy az &uacute;j dolgoz&oacute;k felv&eacute;tel&eacute;ről.</li>
+</ul>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha Anna kil&eacute;p, &eacute;s B&eacute;la egyed&uuml;l marad, hat h&oacute;napja van &uacute;j tagot tal&aacute;lni, k&uuml;l&ouml;nben a t&aacute;rsas&aacute;g megszűnik.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bet&eacute;ti t&aacute;rsas&aacute;g (bt.) &ndash; R&eacute;szletes p&eacute;lda</strong></p>
+<p><strong>P&eacute;lda: Vend&eacute;gl&aacute;t&oacute; egys&eacute;g</strong></p>
+<ul>
+<li>K&eacute;t testv&eacute;r, G&aacute;bor (beltag) &eacute;s Kata (k&uuml;ltag) bet&eacute;ti t&aacute;rsas&aacute;got alap&iacute;tanak egy kis &eacute;tterem &uuml;zemeltet&eacute;s&eacute;re.</li>
+<li>Kata, mint k&uuml;ltag, anyagilag t&aacute;mogatja az &eacute;ttermet egy 5 milli&oacute; forintos kezdőtők&eacute;vel, de nem vesz r&eacute;szt az operat&iacute;v munk&aacute;ban. G&aacute;bor, mint beltag, vezeti az &eacute;ttermet &eacute;s hoz &uuml;zleti d&ouml;nt&eacute;seket.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>Ha az &eacute;tterem nagy ad&oacute;ss&aacute;got halmoz fel, &eacute;s nem tudja t&ouml;rleszteni, G&aacute;bor (mint beltag) korl&aacute;tlanul felel a tartoz&aacute;sok&eacute;rt. Kata viszont csak a t&aacute;rsas&aacute;gba tett 5 milli&oacute; forintos hozz&aacute;j&aacute;rul&aacute;s&aacute;val felel.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>Csak G&aacute;bor (a beltag) jogosult az &eacute;tterem &uuml;gyvezet&eacute;s&eacute;re, Kata (a k&uuml;ltag) csak tan&aacute;csokat adhat.</li>
+</ul>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha G&aacute;bor (a beltag) kil&eacute;p, a t&aacute;rsas&aacute;g csak akkor maradhat fenn, ha Kata &uacute;j beltagot tal&aacute;l.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Korl&aacute;tolt felelőss&eacute;gű t&aacute;rsas&aacute;g (kft.) &ndash; R&eacute;szletes p&eacute;lda</strong></p>
+<p><strong>P&eacute;lda: IT szolg&aacute;ltat&oacute; c&eacute;g</strong></p>
+<ul>
+<li>Egy h&aacute;romtag&uacute; csapat, P&eacute;ter, J&aacute;nos &eacute;s &Eacute;va, kft.-t alap&iacute;t egy szoftverfejlesztő c&eacute;g műk&ouml;dtet&eacute;s&eacute;re. Mindh&aacute;rman egyenlő r&eacute;szben, 1-1 milli&oacute; forinttal j&aacute;rulnak hozz&aacute; a t&aacute;rsas&aacute;g 3 milli&oacute; forintos t&ouml;rzstők&eacute;j&eacute;hez.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A t&aacute;rsas&aacute;g ad&oacute;ss&aacute;gai&eacute;rt a tagok nem felelnek a mag&aacute;nvagyonukkal, csak a t&ouml;rzstők&eacute;be befizetett 1-1 milli&oacute; forinttal.</li>
+<li>Ha a t&aacute;rsas&aacute;g vesztes&eacute;ges lesz, a tagok csak a t&ouml;rzstőke elveszt&eacute;s&eacute;t kock&aacute;ztatj&aacute;k.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>J&aacute;nos, mint kijel&ouml;lt &uuml;gyvezető, ir&aacute;ny&iacute;tja a c&eacute;g napi műk&ouml;d&eacute;s&eacute;t, p&eacute;ld&aacute;ul szerződ&eacute;seket k&ouml;t &eacute;s kapcsolatot tart az &uuml;gyfelekkel.</li>
+</ul>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha a t&ouml;rzstőke 3 milli&oacute; forint al&aacute; cs&ouml;kken, a tagoknak p&oacute;tbefizet&eacute;ssel kell helyre&aacute;ll&iacute;taniuk, k&uuml;l&ouml;nben a t&aacute;rsas&aacute;g megszűnik.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>R&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (rt.) &ndash; R&eacute;szletes p&eacute;lda</strong></p>
+<p><strong>P&eacute;lda: Gy&oacute;gyszergy&aacute;rt&oacute; v&aacute;llalat (zrt. &eacute;s nyrt.)</strong></p>
+<ol>
+<li><strong>Z&aacute;rtk&ouml;rű r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (zrt.)</strong>:</li>
+<ul>
+<li>Egy csal&aacute;d alap&iacute;t egy z&aacute;rtk&ouml;rű r&eacute;szv&eacute;nyt&aacute;rsas&aacute;got gy&oacute;gyszerkutat&aacute;ssal foglalkoz&oacute; v&aacute;llalatk&eacute;nt. Az alaptőke 20 milli&oacute; forint, amelyet a csal&aacute;d tagjai osztanak meg egym&aacute;s k&ouml;z&ouml;tt r&eacute;szv&eacute;nyek form&aacute;j&aacute;ban.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A r&eacute;szv&eacute;nyesek nem felelnek a c&eacute;g ad&oacute;ss&aacute;gai&eacute;rt, csak a r&eacute;szv&eacute;nyeik &eacute;rt&eacute;k&eacute;t kock&aacute;ztatj&aacute;k.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>Az igazgat&oacute;s&aacute;g ir&aacute;ny&iacute;tja a c&eacute;g műk&ouml;d&eacute;s&eacute;t, &eacute;s a csal&aacute;d &aacute;ltal kinevezett tagok hoznak &uuml;zleti d&ouml;nt&eacute;seket.</li>
+</ul>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Ha az alaptőke 5 milli&oacute; forint al&aacute; cs&ouml;kken, a t&aacute;rsas&aacute;got felsz&aacute;molj&aacute;k, vagy a r&eacute;szv&eacute;nyesek p&oacute;tolj&aacute;k a tők&eacute;t.</li>
+</ul>
+</ul>
+<li><strong>Nyilv&aacute;nosan műk&ouml;dő r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g (nrt.)</strong>:</li>
+<ul>
+<li>Egy nagy gy&oacute;gyszergy&aacute;rt&oacute; v&aacute;llalat r&eacute;szv&eacute;nyeit bevezetik a tőzsd&eacute;re. B&aacute;rki v&aacute;s&aacute;rolhat r&eacute;szv&eacute;nyt, &eacute;s ezzel r&eacute;sztulajdont szerezhet a c&eacute;gben.</li>
+<li><strong>Felelőss&eacute;g</strong>:</li>
+<ul>
+<li>A r&eacute;szv&eacute;nyesek kiz&aacute;r&oacute;lag a r&eacute;szv&eacute;nyeik &eacute;rt&eacute;k&eacute;t kock&aacute;ztatj&aacute;k.</li>
+</ul>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>:</li>
+<ul>
+<li>Az igazgat&oacute;s&aacute;g ir&aacute;ny&iacute;tja a v&aacute;llalatot, de a r&eacute;szv&eacute;nyesek k&ouml;zgyűl&eacute;sen szavazhatnak a strat&eacute;giai d&ouml;nt&eacute;sekről (pl. osztal&eacute;k m&eacute;rt&eacute;ke, &uacute;j vezetők kinevez&eacute;se).</li>
+</ul>
+</ul>
+</ol>
+<p>&Ouml;sszegz&eacute;s:</p>
+<p><img src="img_tetelek/11_Osszegzes.png" alt="11_Osszegzes" /></p>
+<p><img src="img_tetelek/11_Osszegzes_1.png" alt="11_Osszegzes_1" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

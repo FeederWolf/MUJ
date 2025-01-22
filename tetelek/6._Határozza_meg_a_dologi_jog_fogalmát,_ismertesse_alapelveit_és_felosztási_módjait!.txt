@@ -1,0 +1,90 @@
+<h2>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hat&aacute;rozza meg a dologi jog fogalm&aacute;t, ismertesse alapelveit &eacute;s feloszt&aacute;si m&oacute;djait!</h2>
+<p>&nbsp;</p>
+<p><strong>[Polg&aacute;ri T&ouml;rv&eacute;nyk&ouml;nyv V. k&ouml;nyve tartalmazza]</strong></p>
+<p><em>Mindk&eacute;t jogter&uuml;let szorosan &ouml;sszef&uuml;gg, p&eacute;ld&aacute;ul egy ad&aacute;sv&eacute;teli szerződ&eacute;s egyszerre keletkeztet k&ouml;telmi jogot (a v&eacute;tel&aacute;r megfizet&eacute;s&eacute;re) &eacute;s dologi jogot (a tulajdonjog &aacute;truh&aacute;z&aacute;s&aacute;ra).</em></p>
+<p>&nbsp;</p>
+<p><strong>A dologi jog fogalma</strong></p>
+<p>A <strong>dologi jog</strong> a mag&aacute;njog egyik &aacute;ga, amely a vagyont&aacute;rgyak (dolgok) feletti tulajdonjogot, valamint a korl&aacute;tozott dologi jogokat szab&aacute;lyozza. A dologi jog lehetőv&eacute; teszi, hogy valaki k&ouml;zvetlen jogi uralmat gyakoroljon egy dolog felett, &eacute;s ez a jog mindenkivel szemben &eacute;rv&eacute;nyes&iacute;thető.</p>
+<p>&nbsp;</p>
+<p><strong>A dologi jog alapelvei</strong></p>
+<ol>
+<li><strong>Z&aacute;rtk&ouml;rűs&eacute;g elve [numerus clausus]</strong>:</li>
+<ul>
+<li>Csak a t&ouml;rv&eacute;ny &aacute;ltal meghat&aacute;rozott dologi jogokat lehet l&eacute;trehozni.</li>
+<li><strong>P&eacute;lda</strong>: Tulajdonjog, szolgalom, haszon&eacute;lvezeti jog.</li>
+</ul>
+<li><strong>Abszol&uacute;t hat&aacute;ly elve</strong>:</li>
+<ul>
+<li>A dologi jogok harmadik szem&eacute;lyekkel szemben is &eacute;rv&eacute;nyes&iacute;thetők.</li>
+<li><strong>P&eacute;lda</strong>: Ha valakinek telki szolgalmi joga van, azt m&aacute;s nem akad&aacute;lyozhatja.</li>
+</ul>
+<li><strong>Nyilv&aacute;noss&aacute;g elve</strong>:</li>
+<ul>
+<li>Az ingatlanokra vonatkoz&oacute; dologi jogokat az ingatlan-nyilv&aacute;ntart&aacute;sban r&ouml;gz&iacute;tik.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlanon fenn&aacute;ll&oacute; haszon&eacute;lvezeti jogot be kell jegyezni.</li>
+</ul>
+<li><strong>Egyedis&eacute;g elve</strong>:</li>
+<ul>
+<li>A dologi jog t&aacute;rgy&aacute;t mindig egyedileg kell meghat&aacute;rozni (pl. konkr&eacute;t ingatlan vagy ing&oacute;s&aacute;g).</li>
+<li><strong>P&eacute;lda</strong>: Egy adott ingatlan haszn&aacute;lati joga nem vonatkozhat a tulajdonos m&aacute;s vagyont&aacute;rgyaira.</li>
+</ul>
+<li><strong>Tartalmi k&ouml;t&ouml;tts&eacute;g elve</strong>:</li>
+<ul>
+<li>A dologi jogok tartalma t&ouml;rv&eacute;nyileg meghat&aacute;rozott, &iacute;gy a felek nem t&eacute;rhetnek el szabadon.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A dologi jog feloszt&aacute;sa &eacute;s r&eacute;szletes p&eacute;ld&aacute;k</strong></p>
+<ol>
+<li><strong>Teljes dologi jog: Tulajdonjog</strong></li>
+<ul>
+<li>A tulajdonosnak teljes k&ouml;rű joga van a dolog birtokl&aacute;s&aacute;ra, haszn&aacute;lat&aacute;ra, rendelkez&eacute;s&eacute;re &eacute;s hasznos&iacute;t&aacute;s&aacute;ra.</li>
+<li><strong>P&eacute;lda</strong>:</li>
+<ul>
+<li>Egy lak&aacute;stulajdonos szabadon d&ouml;nthet arr&oacute;l, hogy az ingatlant eladja, b&eacute;rbe adja vagy maga haszn&aacute;lja.</li>
+<li>Egy aut&oacute; tulajdonosa eld&ouml;ntheti, hogy azt eladja, k&ouml;lcs&ouml;nadja vagy gar&aacute;zsban t&aacute;rolja.</li>
+</ul>
+</ul>
+<li><strong>Korl&aacute;tolt dologi jogok</strong></li>
+<ul>
+<li>A tulajdonjog egyes elemeit korl&aacute;tozz&aacute;k, &eacute;s harmadik szem&eacute;lyek jav&aacute;ra biztos&iacute;tanak jogokat.</li>
+<li><strong>Fajt&aacute;k &eacute;s p&eacute;ld&aacute;k</strong>:</li>
+<ul>
+<li><strong>Szolgalom</strong>:</li>
+<ul>
+<li>P&eacute;lda: Egy f&ouml;ldter&uuml;let tulajdonosa k&ouml;teles lehetőv&eacute; tenni, hogy a szomsz&eacute;dos telek tulajdonosa &aacute;thaladjon rajta (&aacute;tj&aacute;r&aacute;si jog).</li>
+</ul>
+<li><strong>Haszon&eacute;lvezeti jog</strong>:</li>
+<ul>
+<li>P&eacute;lda: Egy idős sz&uuml;lő haszon&eacute;lvezeti joga van a h&aacute;zon, amelyben &eacute;l, m&eacute;g akkor is, ha az ingatlan a gyermek tulajdon&aacute;ban van.</li>
+</ul>
+<li><strong>Z&aacute;logjog</strong>:</li>
+<ul>
+<li>P&eacute;lda: Ha valaki k&ouml;lcs&ouml;nt vesz fel, &eacute;s az ingatlan&aacute;t jelz&aacute;loggal terhelik, a hitelező z&aacute;logjoga van az ingatlanon.</li>
+</ul>
+</ul>
+</ul>
+<li><strong>Birtokl&aacute;s joga</strong>:</li>
+<ul>
+<li><strong>A birtokl&aacute;s joga</strong> a dologi jog egyik r&eacute;sze, amely lehetős&eacute;get biztos&iacute;t egy szem&eacute;ly sz&aacute;m&aacute;ra, hogy a dolgot t&eacute;nylegesen mag&aacute;n&aacute;l tartsa &eacute;s birtokolja.</li>
+<li><strong>P&eacute;lda</strong>:</li>
+<ul>
+<li>Egy aut&oacute;t haszn&aacute;l&oacute; b&eacute;rlő birtokolja az aut&oacute;t, de nem tulajdonosa.</li>
+<li>Egy ingatlant jogellenesen elfoglal&oacute; szem&eacute;ly birtokolja a dolgot, de nem jogszerűen.</li>
+</ul>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A birtokl&aacute;s joga a dologi jogon bel&uuml;l</strong></p>
+<p>Igen, a <strong>birtokl&aacute;s joga</strong> is a <strong>dologi jog</strong> k&ouml;r&eacute;be tartozik, mivel a tulajdonjog egyik elem&eacute;t k&eacute;pezi. A birtokl&aacute;s jog&aacute;n alapul:</p>
+<ol>
+<li><strong>Jogos birtokl&aacute;s</strong>:</li>
+<ul>
+<li>A birtokos jogszerűen tartja mag&aacute;n&aacute;l a dolgot (pl. tulajdonos, b&eacute;rlő, haszon&eacute;lvező).</li>
+</ul>
+<li><strong>Jogtalan birtokl&aacute;s</strong>:</li>
+<ul>
+<li>A birtokos nem rendelkezik jogosults&aacute;ggal, de t&eacute;nylegesen mag&aacute;n&aacute;l tartja a dolgot (pl. &ouml;nk&eacute;nyes lak&aacute;sfoglal&oacute;).</li>
+</ul>
+</ol>
+<p>&nbsp;</p>

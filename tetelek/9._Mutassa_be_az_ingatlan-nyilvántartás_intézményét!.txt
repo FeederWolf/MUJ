@@ -1,0 +1,84 @@
+<h2>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mutassa be az ingatlan-nyilv&aacute;ntart&aacute;s int&eacute;zm&eacute;ny&eacute;t!</h2>
+<p>&nbsp;</p>
+<p><strong>[</strong></p>
+<p>szab&aacute;lyoz&aacute;s r&eacute;szleteit az<strong> ingatlan-nyilv&aacute;ntart&aacute;si t&ouml;rv&eacute;ny (2012. &eacute;vi CXX. t&ouml;rv&eacute;ny) </strong>&eacute;s a<strong> Polg&aacute;ri T&ouml;rv&eacute;nyk&ouml;nyv vonatkoz&oacute; </strong>szakaszai tartalmazz&aacute;k<strong>.</strong></p>
+<p><strong>Kapcsol&oacute;d&oacute; paragrafusok (Inytv.)</strong></p>
+<p><strong>]</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Az ingatlan-nyilv&aacute;ntart&aacute;s fogalma</strong></p>
+<p>Az <strong>ingatlan-nyilv&aacute;ntart&aacute;s</strong> egy k&ouml;zhiteles nyilv&aacute;ntart&aacute;s, amely az ingatlanok jogi helyzet&eacute;nek r&ouml;gz&iacute;t&eacute;s&eacute;re szolg&aacute;l. C&eacute;lja, hogy biztos&iacute;tsa az ingatlanok tulajdonjog&aacute;nak &eacute;s az azokat terhelő jogoknak &aacute;tl&aacute;that&oacute;s&aacute;g&aacute;t &eacute;s jogbiztons&aacute;g&aacute;t. Az ingatlan-nyilv&aacute;ntart&aacute;sban r&ouml;gz&iacute;tett adatok hitelesen tan&uacute;s&iacute;tj&aacute;k az ingatlanokhoz kapcsol&oacute;d&oacute; jogokat &eacute;s k&ouml;telezetts&eacute;geket.</p>
+<p>&nbsp;</p>
+<p><strong>Az ingatlan-nyilv&aacute;ntart&aacute;s alapelvei</strong></p>
+<ol>
+<li><strong>K&ouml;zhiteless&eacute;g elve [ 2. &sect; (1)&ndash;(2)]</strong>:</li>
+<ul>
+<li>Az ingatlan-nyilv&aacute;ntart&aacute;s bejegyz&eacute;sei hitelesen tan&uacute;s&iacute;tj&aacute;k a jogok &eacute;s t&eacute;nyek fenn&aacute;ll&aacute;s&aacute;t.</li>
+<li><strong>P&eacute;lda</strong>: Ha egy ingatlan tulajdonjoga be van jegyezve, harmadik szem&eacute;ly nem hivatkozhat arra, hogy nem tudott a tulajdonviszonyr&oacute;l.</li>
+</ul>
+<li><strong>Bejegyz&eacute;s elve [3. &sect; (1)]</strong>:</li>
+<ul>
+<li>Az ingatlanon fenn&aacute;ll&oacute; jogok csak a nyilv&aacute;ntart&aacute;sba val&oacute; bejegyz&eacute;ssel keletkeznek.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlan ad&aacute;sv&eacute;teli szerződ&eacute;s alapj&aacute;n t&ouml;rt&eacute;nő tulajdonjog-&aacute;truh&aacute;z&aacute;s eset&eacute;n a tulajdonjog csak a nyilv&aacute;ntart&aacute;sba val&oacute; bejegyz&eacute;ssel sz&aacute;ll &aacute;t.</li>
+</ul>
+<li><strong>Nyilv&aacute;noss&aacute;g elve [4. &sect;]</strong>:</li>
+<ul>
+<li>Az ingatlan-nyilv&aacute;ntart&aacute;s nyilv&aacute;nos, b&aacute;rki megtekintheti, &eacute;s hiteles m&aacute;solatot k&eacute;rhet r&oacute;la.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlan v&aacute;s&aacute;rl&oacute;ja ellenőrizheti a tulajdoni lapot, hogy meggyőződj&ouml;n a tulajdonjogr&oacute;l &eacute;s terhekről.</li>
+</ul>
+<li><strong>Okirat elve [32. &sect;]</strong>:</li>
+<ul>
+<li>Jogok bejegyz&eacute;s&eacute;re csak megfelelő okirat vagy hat&oacute;s&aacute;gi hat&aacute;rozat alapj&aacute;n ker&uuml;lhet sor.</li>
+<li><strong>P&eacute;lda</strong>: Egy jelz&aacute;logjogot kiz&aacute;r&oacute;lag megfelelő szerződ&eacute;s alapj&aacute;n lehet bejegyezni.</li>
+</ul>
+<li><strong>Rangsor elve [16. &sect; (1)]</strong>:</li>
+<ul>
+<li>Az ingatlan-nyilv&aacute;ntart&aacute;sban r&ouml;gz&iacute;tett jogok &eacute;s t&eacute;nyek sorrendj&eacute;t a bejegyz&eacute;s időpontja hat&aacute;rozza meg.</li>
+<li><strong>P&eacute;lda</strong>: Ha egy ingatlanra k&eacute;t k&uuml;l&ouml;nb&ouml;ző bank jelz&aacute;logjogot jegyeztet be, az a bank &eacute;lvez elsőbbs&eacute;get, amelynek jelz&aacute;logjog&aacute;t előbb jegyezt&eacute;k be. Ez azt jelenti, hogy egy esetleges v&eacute;grehajt&aacute;s sor&aacute;n ez a bank kap kiel&eacute;g&iacute;t&eacute;st elősz&ouml;r.</li>
+</ul>
+<li><strong>K&eacute;relemhez k&ouml;t&ouml;tts&eacute;g elve [32. &sect; (1)]</strong>:</li>
+<ul>
+<li>Bejegyz&eacute;sre csak az &uuml;gyf&eacute;l k&eacute;relme vagy hat&oacute;s&aacute;gi megkeres&eacute;s alapj&aacute;n ker&uuml;lhet sor.</li>
+<li><strong>P&eacute;lda</strong>: Egy tulajdonosnak k&eacute;rv&eacute;nyt kell beny&uacute;jtania a tulajdonjog m&oacute;dos&iacute;t&aacute;s&aacute;nak nyilv&aacute;ntart&aacute;sba v&eacute;tel&eacute;hez.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Az ingatlan-nyilv&aacute;ntart&aacute;s tartalma</strong></p>
+<ol>
+<li><strong>Tulajdonosi adatok [16. &sect; (2)]</strong>:</li>
+<ul>
+<li>Az ingatlan tulajdonos&aacute;nak vagy tulajdonosainak adatai.</li>
+<li><strong>P&eacute;lda</strong>: N&eacute;v, sz&uuml;let&eacute;si d&aacute;tum, lakc&iacute;m.</li>
+</ul>
+<li><strong>Ingatlan adatai [15. &sect; (1)]</strong>:</li>
+<ul>
+<li>Az ingatlan azonos&iacute;t&oacute; adatai, p&eacute;ld&aacute;ul helyrajzi sz&aacute;m, fekv&eacute;s, alapter&uuml;let.</li>
+<li><strong>P&eacute;lda</strong>: Egy telek helyrajzi sz&aacute;ma &eacute;s pontos m&eacute;rete.</li>
+</ul>
+<li><strong>Jogok &eacute;s terhek [17. &sect; (1)]</strong>:</li>
+<ul>
+<li>Az ingatlant terhelő jogok &eacute;s k&ouml;telezetts&eacute;gek, p&eacute;ld&aacute;ul szolgalmi jog, haszon&eacute;lvezeti jog, jelz&aacute;logjog.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlanon fenn&aacute;ll&oacute; &aacute;tj&aacute;r&aacute;si szolgalmi jog.</li>
+</ul>
+<li><strong>T&eacute;nyek &eacute;s megjegyz&eacute;sek [18. &sect;]</strong>:</li>
+<ul>
+<li>Jogilag relev&aacute;ns t&eacute;nyek, p&eacute;ld&aacute;ul &eacute;p&iacute;t&eacute;si tilalom, elidegen&iacute;t&eacute;si &eacute;s terhel&eacute;si tilalom.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlanra vonatkoz&oacute; bont&aacute;si tilalom.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Az ingatlan-nyilv&aacute;ntart&aacute;s jelentős&eacute;ge</strong></p>
+<ol>
+<li><strong>Jogbiztons&aacute;g [2. &sect; (2)]</strong>:</li>
+<ul>
+<li>Biztos&iacute;tja, hogy az ingatlan tulajdonjoga &eacute;s az ahhoz kapcsol&oacute;d&oacute; jogok egy&eacute;rtelműen nyomon k&ouml;vethetők legyenek.</li>
+</ul>
+<li><strong>K&ouml;zbizalom [2. &sect; (1)]</strong>:</li>
+<ul>
+<li>A nyilv&aacute;ntart&aacute;s adataira mindenki j&oacute;hiszeműen t&aacute;maszkodhat.</li>
+</ul>
+<li><strong>Gazdas&aacute;gi tranzakci&oacute;k alapja [1. &sect;]</strong>:</li>
+<ul>
+<li>Az ingatlan-nyilv&aacute;ntart&aacute;s &aacute;tl&aacute;that&oacute;s&aacute;ga előseg&iacute;ti az ingatlanokkal kapcsolatos szerződ&eacute;sek &eacute;s gazdas&aacute;gi &uuml;gyletek biztons&aacute;gos lebonyol&iacute;t&aacute;s&aacute;t.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>

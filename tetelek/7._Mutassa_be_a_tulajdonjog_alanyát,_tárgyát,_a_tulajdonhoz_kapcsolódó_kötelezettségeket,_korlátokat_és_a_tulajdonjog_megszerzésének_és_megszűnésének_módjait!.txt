@@ -1,0 +1,139 @@
+<h2>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mutassa be a tulajdonjog alany&aacute;t, t&aacute;rgy&aacute;t, a tulajdonhoz kapcsol&oacute;d&oacute; k&ouml;telezetts&eacute;geket, korl&aacute;tokat &eacute;s a tulajdonjog megszerz&eacute;s&eacute;nek &eacute;s megszűn&eacute;s&eacute;nek m&oacute;djait!</h2>
+<p>&nbsp;</p>
+<p><strong>Kapcsol&oacute;d&oacute; jogszab&aacute;lyok</strong></p>
+<ul>
+<li><strong>Polg&aacute;ri T&ouml;rv&eacute;nyk&ouml;nyv (Ptk.)</strong>:</li>
+<ul>
+<li><strong>5:1. &sect;&ndash;5:60. &sect;</strong>: A dologi jog &aacute;ltal&aacute;nos szab&aacute;lyai, bele&eacute;rtve a tulajdonjogot, szolgalmat, haszon&eacute;lvezetet &eacute;s z&aacute;logjogot.</li>
+</ul>
+<li><strong>Alapt&ouml;rv&eacute;ny</strong>:</li>
+<ul>
+<li><strong>XIII. cikk</strong>: A tulajdonhoz val&oacute; jog &eacute;s annak v&eacute;delme.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog fogalma</strong></p>
+<p>A <strong>tulajdonjog</strong> a teljes dologi jogok k&ouml;z&eacute; tartozik, amely a tulajdonos sz&aacute;m&aacute;ra kiz&aacute;r&oacute;lagos jogot biztos&iacute;t a dolog birtokl&aacute;s&aacute;ra, haszn&aacute;lat&aacute;ra, hasznainak szed&eacute;s&eacute;re, valamint rendelkez&eacute;s&eacute;re. Ez a jog mindenkivel szemben &eacute;rv&eacute;nyes&iacute;thető, ugyanakkor a jogszab&aacute;lyok bizonyos korl&aacute;tokat &eacute;s k&ouml;telezetts&eacute;geket &aacute;llap&iacute;tanak meg a tulajdonos sz&aacute;m&aacute;ra.</p>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog alanya</strong></p>
+<ol>
+<li><strong>Term&eacute;szetes szem&eacute;lyek</strong>:</li>
+<ul>
+<li>B&aacute;rki lehet tulajdonos, &eacute;letkort&oacute;l vagy m&aacute;s k&ouml;r&uuml;lm&eacute;nyektől f&uuml;ggetlen&uuml;l, amennyiben a jogszab&aacute;lyok nem z&aacute;rj&aacute;k ki.</li>
+<li><strong>P&eacute;lda</strong>: Egy mag&aacute;nszem&eacute;ly h&aacute;zat v&aacute;s&aacute;rol, amely az ő tulajdon&aacute;ba ker&uuml;l.</li>
+</ul>
+<li><strong>Jogi szem&eacute;lyek</strong>:</li>
+<ul>
+<li>Gazdas&aacute;gi t&aacute;rsas&aacute;gok, egyes&uuml;letek, alap&iacute;tv&aacute;nyok &eacute;s m&aacute;s jogi szem&eacute;lyek is lehetnek tulajdonosok.</li>
+<li><strong>P&eacute;lda</strong>: Egy c&eacute;g ingatlant v&aacute;s&aacute;rol irodai haszn&aacute;latra.</li>
+</ul>
+<li><strong>Az &aacute;llam &eacute;s &ouml;nkorm&aacute;nyzatok</strong>:</li>
+<ul>
+<li>Az &aacute;llam &eacute;s az &ouml;nkorm&aacute;nyzatok is rendelkezhetnek tulajdonjoggal, p&eacute;ld&aacute;ul k&ouml;zter&uuml;letek, &eacute;p&uuml;letek vagy term&eacute;szeti erőforr&aacute;sok felett.</li>
+<li><strong>P&eacute;lda</strong>: Egy &ouml;nkorm&aacute;nyzat tulajdon&aacute;ban &aacute;ll&oacute; park.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog t&aacute;rgya</strong></p>
+<p>A tulajdonjog t&aacute;rgya lehet minden olyan <strong>dolog</strong>, amely forgalomk&eacute;pes, azaz jogszerűen birtokolhat&oacute;, haszn&aacute;lhat&oacute; &eacute;s &aacute;truh&aacute;zhat&oacute;.</p>
+<ol>
+<li><strong> Ing&oacute; dolgok</strong></li>
+</ol>
+<ul>
+<li>Mozgathat&oacute; vagyont&aacute;rgyak, p&eacute;ld&aacute;ul b&uacute;torok, aut&oacute;k, &eacute;kszerek.</li>
+<li><strong>P&eacute;lda</strong>: Egy szem&eacute;ly v&aacute;s&aacute;rol egy aut&oacute;t, amely az ő tulajdon&aacute;ba ker&uuml;l.</li>
+</ul>
+<ol start="2">
+<li><strong> Ingatlanok</strong></li>
+</ol>
+<ul>
+<li>Olyan vagyont&aacute;rgyak, amelyek helyhez k&ouml;t&ouml;ttek, p&eacute;ld&aacute;ul f&ouml;ld, &eacute;p&uuml;letek, lak&aacute;sok.</li>
+<li><strong>P&eacute;lda</strong>: Egy csal&aacute;d h&aacute;zat v&aacute;s&aacute;rol, amely ingatlan tulajdonukba ker&uuml;l.</li>
+</ul>
+<ol start="3">
+<li><strong> Egy&eacute;b forgalomk&eacute;pes javak</strong></li>
+</ol>
+<ul>
+<li>Szellemi tulajdon, &eacute;rt&eacute;kpap&iacute;rok, digit&aacute;lis javak.</li>
+<li><strong>P&eacute;lda</strong>: Egy szem&eacute;ly megv&aacute;s&aacute;rol egy r&eacute;szv&eacute;nyt, amely az ő tulajdon&aacute;ba ker&uuml;l.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A tulajdonhoz kapcsol&oacute;d&oacute; k&ouml;telezetts&eacute;gek</strong></p>
+<ol>
+<li><strong>A tulajdon haszn&aacute;lat&aacute;nak k&ouml;telezetts&eacute;ge</strong>:</li>
+<ul>
+<li>A tulajdonos k&ouml;teles &uacute;gy gyakorolni jogait, hogy az ne s&eacute;rtse m&aacute;sok jogait vagy a k&ouml;z&eacute;rdeket.</li>
+<li><strong>P&eacute;lda</strong>: Egy h&aacute;ztulajdonos nem helyezhet zajos g&eacute;peket az udvar&aacute;ra, ha ezzel zavarja a szomsz&eacute;dokat.</li>
+</ul>
+<li><strong>Ad&oacute;fizet&eacute;si k&ouml;telezetts&eacute;g</strong>:</li>
+<ul>
+<li>A tulajdonost ad&oacute;fizet&eacute;si k&ouml;telezetts&eacute;g terheli a tulajdon&aacute;val kapcsolatban.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlantulajdonosnak &eacute;p&iacute;tm&eacute;nyad&oacute;t kell fizetnie.</li>
+</ul>
+<li><strong>Karbantart&aacute;si k&ouml;telezetts&eacute;g</strong>:</li>
+<ul>
+<li>A tulajdonosnak gondoskodnia kell tulajdona &aacute;llapot&aacute;nak megőrz&eacute;s&eacute;ről.</li>
+<li><strong>P&eacute;lda</strong>: Egy t&aacute;rsash&aacute;z tulajdonos&aacute;nak k&ouml;teless&eacute;ge r&eacute;szt venni a k&ouml;z&ouml;s ter&uuml;letek karbantart&aacute;s&aacute;ban.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog korl&aacute;tai</strong></p>
+<ol>
+<li><strong>K&ouml;z&eacute;rdekű korl&aacute;toz&aacute;sok</strong>:</li>
+<ul>
+<li>A tulajdonos nem &eacute;lhet jogaival oly m&oacute;don, hogy az m&aacute;sok &eacute;rdekeit s&eacute;rtse vagy a k&ouml;z&eacute;rdeket vesz&eacute;lyeztesse.</li>
+<li><strong>P&eacute;lda</strong>: Egy ingatlant nem lehet szabadon lebontani, ha az műeml&eacute;kv&eacute;delem alatt &aacute;ll.</li>
+</ul>
+<li><strong>Elidegen&iacute;t&eacute;si &eacute;s terhel&eacute;si tilalom</strong>:</li>
+<ul>
+<li>A t&ouml;rv&eacute;ny vagy szerződ&eacute;s bizonyos esetekben megtilthatja a tulajdonosnak, hogy eladja vagy megterhelje a tulajdon&aacute;t.</li>
+<li><strong>P&eacute;lda</strong>: Egy &aacute;llami t&aacute;mogat&aacute;sb&oacute;l v&aacute;s&aacute;rolt ingatlant a t&aacute;mogat&aacute;si időszak alatt nem lehet eladni.</li>
+</ul>
+<li><strong>Szomsz&eacute;djogok</strong>:</li>
+<ul>
+<li>A szomsz&eacute;dos ingatlan tulajdonos&aacute;nak jogai korl&aacute;tozhatj&aacute;k a tulajdonos jogainak gyakorl&aacute;s&aacute;t.</li>
+<li><strong>P&eacute;lda</strong>: Egy telek tulajdonosa nem &uuml;ltethet olyan f&aacute;t a telekhat&aacute;r mell&eacute;, amely vesz&eacute;lyezteti a szomsz&eacute;d &eacute;p&uuml;let&eacute;t.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog megszerz&eacute;s&eacute;nek m&oacute;djai</strong></p>
+<ol>
+<li><strong>Eredeti szerz&eacute;sm&oacute;dok</strong>:</li>
+<ul>
+<li>Olyan szerz&eacute;sm&oacute;dok, amelyek sor&aacute;n a tulajdonjog nem m&aacute;s szem&eacute;ly jog&aacute;n alapul.</li>
+<li><strong>P&eacute;ld&aacute;k</strong>:</li>
+<ul>
+<li><strong>Elbirtokl&aacute;s</strong>: Valaki egy dolgot hossz&uacute; időn kereszt&uuml;l megszak&iacute;t&aacute;s n&eacute;lk&uuml;l birtokol, &eacute;s ezzel tulajdonjogot szerez.</li>
+<li><strong>Tal&aacute;l&aacute;s</strong>: Ha valaki elveszett dolgot tal&aacute;l, a t&ouml;rv&eacute;nyi felt&eacute;telek mellett megszerezheti annak tulajdonjog&aacute;t.</li>
+</ul>
+</ul>
+<li><strong>Sz&aacute;rmaz&eacute;kos szerz&eacute;sm&oacute;dok</strong>:</li>
+<ul>
+<li>A tulajdonjog m&aacute;s szem&eacute;ly jog&aacute;n alapul.</li>
+<li><strong>P&eacute;ld&aacute;k</strong>:</li>
+<ul>
+<li><strong>Ad&aacute;sv&eacute;tel</strong>: Valaki megv&aacute;s&aacute;rol egy ingatlant vagy ing&oacute;s&aacute;got.</li>
+<li><strong>&Ouml;r&ouml;kl&eacute;s</strong>: Egy szem&eacute;ly a v&eacute;grendelet vagy t&ouml;rv&eacute;ny alapj&aacute;n tulajdonjogot szerez.</li>
+</ul>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A tulajdonjog megszűn&eacute;s&eacute;nek m&oacute;djai</strong></p>
+<ol>
+<li><strong>Tulajdon &aacute;truh&aacute;z&aacute;sa</strong>:</li>
+<ul>
+<li>A tulajdonjog elad&aacute;ssal, aj&aacute;nd&eacute;koz&aacute;ssal vagy cser&eacute;vel m&aacute;s szem&eacute;lyre sz&aacute;ll.</li>
+<li><strong>P&eacute;lda</strong>: Egy aut&oacute; elad&aacute;s&aacute;val a tulajdonjog a vevőre sz&aacute;ll.</li>
+</ul>
+<li><strong>Tulajdon megsemmis&uuml;l&eacute;se</strong>:</li>
+<ul>
+<li>Ha a tulajdon t&aacute;rgya megsemmis&uuml;l vagy megsemmis&iacute;tik.</li>
+<li><strong>P&eacute;lda</strong>: Egy h&aacute;z f&ouml;ldreng&eacute;s k&ouml;vetkezt&eacute;ben teljesen &ouml;sszeomlik.</li>
+</ul>
+<li><strong>&Aacute;llami kisaj&aacute;t&iacute;t&aacute;s</strong>:</li>
+<ul>
+<li>K&ouml;z&eacute;rdekből az &aacute;llam kisaj&aacute;t&iacute;thatja a tulajdont, megfelelő k&aacute;rt&eacute;r&iacute;t&eacute;st biztos&iacute;tva.</li>
+<li><strong>P&eacute;lda</strong>: Egy telek &aacute;llami infrastruktur&aacute;lis beruh&aacute;z&aacute;s c&eacute;lj&aacute;ra t&ouml;rt&eacute;nő kisaj&aacute;t&iacute;t&aacute;sa.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>

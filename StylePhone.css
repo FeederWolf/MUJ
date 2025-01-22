@@ -1,0 +1,42 @@
+@media only screen and (max-width: 600px) {
+  #lista {
+    display: none;
+  }
+  .col,
+  .col-3 {
+    margin: 0px;
+  }
+  #layer_1 button {
+    margin: 5px;
+  }
+
+  button:hover,
+  button:active {
+    transform: scale(1);
+  }
+  /*ICONS*/
+  #resize_full {
+    display: none;
+  }
+  #showList {
+    display: block;
+  }
+  #resize_original {
+    display: none;
+  }
+
+  /*LAYERS*/
+  #layer_3 .container {
+    width: 100%;
+  }
+
+  #layer_1 {
+    display: block;
+  }
+  #layer_2 {
+    display: none;
+  }
+  #layer_3 {
+    display: none;
+  }
+}

@@ -1,0 +1,58 @@
+<h2>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ismertesse az alkotm&aacute;ny &eacute;s az alkotm&aacute;nyoss&aacute;g fogalm&aacute;t, mutassa be az alkotm&aacute;nyok t&iacute;pusait, jellemzőit!</h2>
+<p>&nbsp;</p>
+<p><strong>Az alkotm&aacute;ny fogalma</strong></p>
+<p>Az <strong>alkotm&aacute;ny</strong> a <strong>t&aacute;rsadalmi</strong> egy&uuml;tt&eacute;l&eacute;s &eacute;s az <strong>&aacute;llami</strong> rend <strong>jogi</strong> <strong>alaprendje</strong>, amely:</p>
+<ul>
+<li>Meghat&aacute;rozza az &aacute;llami &eacute;s t&aacute;rsadalmi rend alapvető szab&aacute;lyait.</li>
+<li>R&ouml;gz&iacute;ti az &aacute;llam szervezeti fel&eacute;p&iacute;t&eacute;s&eacute;t, műk&ouml;d&eacute;s&eacute;t, valamint a hatalomgyakorl&aacute;s rendj&eacute;t.</li>
+<li>Szab&aacute;lyozza az egy&eacute;n helyzet&eacute;t az &aacute;llamrendszerben, bele&eacute;rtve alapvető jogait &eacute;s k&ouml;telezetts&eacute;geit.</li>
+<li>A jogrendszer cs&uacute;cs&aacute;n &aacute;ll&oacute; alapt&ouml;rv&eacute;nyk&eacute;nt biztos&iacute;tja a jogi norm&aacute;k hierarchi&aacute;j&aacute;t &eacute;s egys&eacute;g&eacute;t.</li>
+</ul>
+<p><strong>[Kapcsol&oacute;d&oacute; Alapt&ouml;rv&eacute;ny-r&eacute;szek]</strong></p>
+<ul>
+<li><strong>Alapt&ouml;rv&eacute;ny B) cikk (1) bekezd&eacute;s</strong>: Magyarorsz&aacute;g f&uuml;ggetlen, demokratikus jog&aacute;llam.</li>
+<li><strong>Alapt&ouml;rv&eacute;ny C) cikk</strong>: Az &aacute;llamhatalom megoszt&aacute;sa.</li>
+<li><strong>Alapt&ouml;rv&eacute;ny I. cikk</strong>: Az alapvető jogok v&eacute;delme.</li>
+</ul>
+<p>Az alkotm&aacute;ny k&uuml;l&ouml;nleges jellemzői:</p>
+<ul>
+<li><strong>Normat&iacute;v</strong>: K&ouml;telező erejű elő&iacute;r&aacute;sokat tartalmaz, amelyeket k&ouml;zvetlen&uuml;l alkalmazni kell.</li>
+<li><strong>Politikai</strong>: Meghat&aacute;rozza az &aacute;llam politikai int&eacute;zm&eacute;nyeit &eacute;s azok műk&ouml;d&eacute;s&eacute;t.</li>
+<li><strong>Konszenzus-teremtő</strong>: A t&aacute;rsadalmi egys&eacute;g, stabilit&aacute;s &eacute;s rend megteremt&eacute;s&eacute;t c&eacute;lozza.</li>
+</ul>
+<p><strong>Az alkotm&aacute;nyoss&aacute;g fogalma [Kapcsol&oacute;d&aacute;s: Alapt&ouml;rv&eacute;ny B) cikk.]</strong></p>
+<p>Az <strong>alkotm&aacute;nyoss&aacute;g</strong> a <strong>t&eacute;nylegesen</strong> <strong>megval&oacute;sult</strong> <strong>rend</strong> &eacute;s az alkotm&aacute;nyban r&ouml;gz&iacute;tett norm&aacute;k k&ouml;z&ouml;tti &ouml;sszhang m&eacute;rt&eacute;ke. [A jog uralma biztos&iacute;tja az &ouml;nk&eacute;ny kiz&aacute;r&aacute;s&aacute;t.]</p>
+<ul>
+<li>Akkor besz&eacute;lhet&uuml;nk alkotm&aacute;nyoss&aacute;gr&oacute;l, ha a gyakorlatban a jogrend &eacute;s az &aacute;llami műk&ouml;d&eacute;s <strong>megfelel</strong> az <strong>alkotm&aacute;ny</strong> <strong>elő&iacute;r&aacute;sainak</strong>.</li>
+<li>Az alkotm&aacute;nyoss&aacute;g megval&oacute;sul&aacute;s&aacute;nak felt&eacute;tele a stabil, korszerű alapt&ouml;rv&eacute;ny &eacute;s az alkotm&aacute;nyos norm&aacute;k &eacute;rv&eacute;nyes&iacute;t&eacute;se.</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Az alkotm&aacute;nyok t&iacute;pusai</strong></p>
+<ol>
+<li><strong>&Iacute;rott (chart&aacute;lis) alkotm&aacute;ny</strong>: Egyetlen dokumentumban foglalja &ouml;ssze az alkotm&aacute;nyos szab&aacute;lyokat. [Magyarorsz&aacute;g Alapt&ouml;rv&eacute;nye]</li>
+<li><strong>T&ouml;rt&eacute;neti (nem &iacute;rott) alkotm&aacute;ny</strong>: K&uuml;l&ouml;nb&ouml;ző korokban kialakult szab&aacute;lyok &ouml;sszess&eacute;ge. [Anglia.]</li>
+<li><strong>Merev alkotm&aacute;ny</strong>: M&oacute;dos&iacute;t&aacute;sa szigor&uacute; elj&aacute;r&aacute;si rendhez k&ouml;t&ouml;tt. [Magyarorsz&aacute;g Alapt&ouml;rv&eacute;nye.]</li>
+<li><strong>Hajl&eacute;kony alkotm&aacute;ny</strong>: M&oacute;dos&iacute;t&aacute;sa a rendes t&ouml;rv&eacute;nyhoz&aacute;si elj&aacute;r&aacute;s szerint t&ouml;rt&eacute;nik.</li>
+<li><strong>Eredeti alkotm&aacute;ny</strong>: &Uacute;jszerű elveket tartalmaz, amelyek kor&aacute;bban nem l&eacute;teztek.</li>
+<li><strong>Sz&aacute;rmaz&eacute;kos alkotm&aacute;ny</strong>: Egy m&aacute;r l&eacute;tező alkotm&aacute;nyt vesz alapul &eacute;s ahhoz igazodik. [N&eacute;metorsz&aacute;g Alapt&ouml;rv&eacute;nye (1949).]</li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Az alkotm&aacute;ny jellemzői &eacute;s funkci&oacute;i [Kapcsol&oacute;d&aacute;s az Alapt&ouml;rv&eacute;nyhez]</strong></p>
+<ol>
+<li><strong>Az &aacute;llamhatalom korl&aacute;toz&aacute;sa &eacute;s szab&aacute;lyoz&aacute;sa</strong>:</li>
+<ul>
+<li>Meghat&aacute;rozza az &aacute;llami hatalom gyakorl&aacute;s&aacute;nak kereteit, kiz&aacute;rva az &ouml;nk&eacute;nyt. [C) cikk: A hatalom megoszt&aacute;sa.]</li>
+</ul>
+<li><strong>Hatalommegoszt&aacute;s</strong>:</li>
+<ul>
+<li>Szab&aacute;lyozza a t&ouml;rv&eacute;nyhoz&oacute;, v&eacute;grehajt&oacute; &eacute;s b&iacute;r&oacute;i hatalmi &aacute;gak műk&ouml;d&eacute;s&eacute;t &eacute;s egym&aacute;shoz val&oacute; viszony&aacute;t. [Alapt&ouml;rv&eacute;ny C) cikk (1).]</li>
+</ul>
+<li><strong>Alapvető jogok v&eacute;delme</strong>:</li>
+<ul>
+<li>Az alkotm&aacute;ny r&ouml;gz&iacute;ti az &aacute;llampolg&aacute;rok alapvető jogait &eacute;s ezek v&eacute;delmi eszk&ouml;zeit. [I. cikk: Az alapvető jogok v&eacute;delme.]</li>
+</ul>
+<li><strong>Stabilit&aacute;s biztos&iacute;t&aacute;sa</strong>:</li>
+<ul>
+<li>Az alkotm&aacute;ny megakad&aacute;lyozza a politikai &eacute;s t&aacute;rsadalmi egys&eacute;g sz&eacute;thull&aacute;s&aacute;t. [B) cikk: Jog&aacute;llamis&aacute;g, jogbiztons&aacute;g.]</li>
+</ul>
+</ol>

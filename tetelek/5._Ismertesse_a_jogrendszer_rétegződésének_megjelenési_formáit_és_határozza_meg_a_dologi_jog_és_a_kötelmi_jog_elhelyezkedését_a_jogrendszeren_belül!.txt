@@ -1,0 +1,107 @@
+<h2>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ismertesse a jogrendszer r&eacute;tegződ&eacute;s&eacute;nek megjelen&eacute;si form&aacute;it &eacute;s hat&aacute;rozza meg a dologi jog &eacute;s a k&ouml;telmi jog elhelyezked&eacute;s&eacute;t a jogrendszeren bel&uuml;l!</h2>
+<p>&nbsp;</p>
+<p><strong>A jogrendszer r&eacute;tegződ&eacute;s&eacute;nek megjelen&eacute;si form&aacute;i &eacute;s a dologi jog, valamint a k&ouml;telmi jog elhelyezked&eacute;se:</strong></p>
+<ul>
+<li>A jogrendszer r&eacute;tegződ&eacute;se a jog k&uuml;l&ouml;nb&ouml;ző szintjeinek &eacute;s &aacute;gazatainak elk&uuml;l&ouml;n&iacute;t&eacute;s&eacute;t biztos&iacute;tja.</li>
+<li>A dologi jog &eacute;s a k&ouml;telmi jog a mag&aacute;njogon bel&uuml;l helyezkedik el, &eacute;s a vagyoni viszonyokat szab&aacute;lyozz&aacute;k, de k&uuml;l&ouml;nb&ouml;ző aspektusokra &ouml;sszpontos&iacute;tanak: a dologi jog az abszol&uacute;t, a k&ouml;telmi jog pedig a relat&iacute;v jogviszonyokra.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A jogrendszer r&eacute;tegződ&eacute;s&eacute;nek megjelen&eacute;si form&aacute;i</strong></p>
+<p>A <strong>jogrendszer r&eacute;tegződ&eacute;se</strong> a jog k&uuml;l&ouml;nb&ouml;ző szintjeinek &eacute;s t&iacute;pusainak elk&uuml;l&ouml;n&uuml;l&eacute;s&eacute;t jelenti, amelyek a jogforr&aacute;sok, a jogi norm&aacute;k &eacute;s a jogviszonyok soksz&iacute;nűs&eacute;g&eacute;t t&uuml;kr&ouml;zik.</p>
+<ol>
+<li><strong> Vertik&aacute;lis r&eacute;tegződ&eacute;s</strong></li>
+</ol>
+<ul>
+<li>A jogi norm&aacute;k hierarchikus elrendez&eacute;se a jogforr&aacute;sok k&ouml;z&ouml;tt.</li>
+<li>A magasabb szintű jogforr&aacute;sok szab&aacute;lyai elsőbbs&eacute;get &eacute;lveznek az alacsonyabb szintűekkel szemben.</li>
+<ul>
+<li><strong>P&eacute;lda</strong>:</li>
+<ul>
+<li>Alapt&ouml;rv&eacute;ny &rarr; t&ouml;rv&eacute;nyek &rarr; rendeletek.</li>
+</ul>
+</ul>
+<li>Biztos&iacute;tja a jogrendszer egys&eacute;gess&eacute;g&eacute;t &eacute;s az alacsonyabb szintű norm&aacute;k &eacute;rv&eacute;nyess&eacute;g&eacute;nek felt&eacute;teleit.</li>
+</ul>
+<ol start="2">
+<li><strong> Horizont&aacute;lis r&eacute;tegződ&eacute;s</strong></li>
+</ol>
+<ul>
+<li>A jog k&uuml;l&ouml;nb&ouml;ző &aacute;gazatokra &eacute;s ter&uuml;letekre oszlik, az &aacute;ltaluk szab&aacute;lyozott viszonyok jellege alapj&aacute;n.</li>
+<ul>
+<li><strong>Jogi &aacute;gazatok</strong>:</li>
+<ul>
+<li><strong>Mag&aacute;njog</strong>: Polg&aacute;ri jog, csal&aacute;djog, munkajog.</li>
+<li><strong>K&ouml;zjog</strong>: B&uuml;ntetőjog, k&ouml;zigazgat&aacute;si jog, alkotm&aacute;nyjog.</li>
+</ul>
+</ul>
+</ul>
+<ol start="3">
+<li><strong> &Iacute;rott &eacute;s &iacute;ratlan jog r&eacute;tegződ&eacute;se</strong></li>
+</ol>
+<ul>
+<li><strong>&Iacute;rott jog</strong>: Az &aacute;llami szervek &aacute;ltal hivatalosan megalkotott, k&ouml;telező jogszab&aacute;lyok (pl. t&ouml;rv&eacute;nyek, rendeletek).</li>
+<li><strong>&Iacute;ratlan jog</strong>: Szok&aacute;sjog, precedensjog, amelyeket form&aacute;lis jogszab&aacute;lyok nem r&ouml;gz&iacute;tenek, de elismertek.</li>
+<li><strong>P&eacute;ld&aacute;ul</strong>: Kereskedők k&ouml;z&ouml;tt kialakult szok&aacute;sjogi norm&aacute;k, p&eacute;ld&aacute;ul az &aacute;rutartoz&aacute;sok kezel&eacute;se (r&eacute;szletfizet&eacute;s &iacute;ratlan szab&aacute;lyai egy adott r&eacute;gi&oacute;ban).</li>
+</ul>
+<ol start="4">
+<li><strong> Nemzeti &eacute;s nemzetk&ouml;zi jog</strong></li>
+</ol>
+<ul>
+<li><strong>Nemzeti jog</strong>: Egy adott &aacute;llam belső jogrendszere.</li>
+<li><strong>Nemzetk&ouml;zi jog</strong>: Az &aacute;llamok k&ouml;z&ouml;tti viszonyokat szab&aacute;lyoz&oacute; jog (pl. nemzetk&ouml;zi szerződ&eacute;sek, EU-jog).</li>
+</ul>
+<ol start="5">
+<li><strong> Anyagi &eacute;s alaki jog</strong></li>
+</ol>
+<ul>
+<li><strong>Anyagi jog</strong>: Azokat a norm&aacute;kat foglalja mag&aacute;ban, amelyek az alanyi jogokat &eacute;s k&ouml;telezetts&eacute;geket hat&aacute;rozz&aacute;k meg (pl. polg&aacute;ri jogi szab&aacute;lyok).</li>
+<li><strong>Alaki jog</strong>: Az elj&aacute;r&aacute;si szab&aacute;lyok, amelyek biztos&iacute;tj&aacute;k az anyagi jog &eacute;rv&eacute;nyes&uuml;l&eacute;s&eacute;t (pl. polg&aacute;ri perrendtart&aacute;s).</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A dologi jog &eacute;s a k&ouml;telmi jog elhelyezked&eacute;se a jogrendszeren bel&uuml;l</strong></p>
+<p>Mind a <strong>dologi jog</strong>, mind a <strong>k&ouml;telmi jog</strong> a mag&aacute;njog r&eacute;szei, &eacute;s a polg&aacute;ri jogon bel&uuml;l helyezkednek el.</p>
+<ol>
+<li><strong> Dologi jog</strong></li>
+</ol>
+<ul>
+<li><strong>Elhelyezked&eacute;se</strong>:</li>
+<ul>
+<li>A <strong>polg&aacute;ri jog</strong> al&aacute; tartozik, annak egyik alapvető r&eacute;sze.</li>
+</ul>
+<li><strong>T&aacute;rgya</strong>:</li>
+<ul>
+<li>A vagyoni viszonyok egy r&eacute;sz&eacute;t szab&aacute;lyozza, k&uuml;l&ouml;n&ouml;sen az emberek &eacute;s a dolgok k&ouml;z&ouml;tti jogi kapcsolatokat.</li>
+<li>Fők&eacute;nt a tulajdonjoggal &eacute;s a tulajdonjog korl&aacute;taival foglalkozik.</li>
+</ul>
+<li><strong>Jellegzetess&eacute;ge</strong>:</li>
+<ul>
+<li>A dologi jog abszol&uacute;t jogviszonyokat szab&aacute;lyoz, amelyek harmadik szem&eacute;lyekkel szemben is hat&aacute;lyosak.</li>
+<li>P&eacute;lda: tulajdonjog, haszn&aacute;lati jog, szolgalom.</li>
+</ul>
+</ul>
+<ol start="2">
+<li><strong> K&ouml;telmi jog</strong></li>
+</ol>
+<ul>
+<li><strong>Elhelyezked&eacute;se</strong>:</li>
+<ul>
+<li>A <strong>polg&aacute;ri jog</strong> egyik fontos r&eacute;sze.</li>
+</ul>
+<li><strong>T&aacute;rgya</strong>:</li>
+<ul>
+<li>Az emberek k&ouml;z&ouml;tti k&ouml;telezetts&eacute;gi jogviszonyokat szab&aacute;lyozza, k&uuml;l&ouml;n&ouml;sen a szerződ&eacute;sek &eacute;s m&aacute;s k&ouml;telmek alapj&aacute;n keletkező jogokat &eacute;s k&ouml;telezetts&eacute;geket.</li>
+</ul>
+<li><strong>Jellegzetess&eacute;ge</strong>:</li>
+<ul>
+<li>Relat&iacute;v jogviszonyokat hoz l&eacute;tre, amelyek csak az &eacute;rintett felek k&ouml;z&ouml;tt hat&aacute;lyosak.</li>
+<li>P&eacute;lda: ad&aacute;sv&eacute;teli szerződ&eacute;s, b&eacute;rleti szerződ&eacute;s, k&aacute;rt&eacute;r&iacute;t&eacute;si k&ouml;telezetts&eacute;g.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A jogrendszer fel&eacute;p&iacute;t&eacute;se &eacute;s a k&eacute;t ter&uuml;let viszonya</strong></p>
+<ul>
+<li>A <strong>polg&aacute;ri jog</strong> a mag&aacute;njog k&ouml;zponti r&eacute;sze, amely a dologi &eacute;s k&ouml;telmi jogot is mag&aacute;ban foglalja.</li>
+<li>A dologi jog az ember &eacute;s a tulajdon t&aacute;rgya k&ouml;z&ouml;tti viszonyokra &ouml;sszpontos&iacute;t, m&iacute;g a k&ouml;telmi jog az emberek k&ouml;z&ouml;tti k&ouml;telezetts&eacute;gi viszonyokra.</li>
+<li>Ezek egy&uuml;ttesen biztos&iacute;tj&aacute;k a vagyoni viszonyok &aacute;tfog&oacute; szab&aacute;lyoz&aacute;s&aacute;t a mag&aacute;njogi keretek k&ouml;z&ouml;tt.</li>
+</ul>
+<p>&nbsp;</p>

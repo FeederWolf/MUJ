@@ -1,0 +1,70 @@
+<h2>13.&nbsp;&nbsp;&nbsp;&nbsp; Ismertesse az egy&eacute;ni v&aacute;llalkoz&aacute;s &eacute;s az egy&eacute;ni c&eacute;g fogalm&aacute;t, szab&aacute;lyoz&aacute;s&aacute;nak fontosabb elemeit!</h2>
+<p>&nbsp;</p>
+<ol>
+<li><strong> Egy&eacute;ni v&aacute;llalkoz&aacute;s</strong></li>
+</ol>
+<p><strong>Fogalma</strong></p>
+<p>Az egy&eacute;ni v&aacute;llalkoz&aacute;s olyan &uuml;zletszerű, rendszeres, nyeres&eacute;g- &eacute;s vagyonszerz&eacute;s c&eacute;lj&aacute;b&oacute;l v&eacute;gzett gazdas&aacute;gi tev&eacute;kenys&eacute;g, amelyet term&eacute;szetes szem&eacute;ly saj&aacute;t gazdas&aacute;gi kock&aacute;zatv&aacute;llal&aacute;sa mellett folytat. Az egy&eacute;ni v&aacute;llalkoz&oacute;i tev&eacute;kenys&eacute;get a <strong>2010. &eacute;vi CXV. t&ouml;rv&eacute;ny</strong> szab&aacute;lyozza.</p>
+<p><strong>Főbb jellemzői</strong></p>
+<ul>
+<li><strong>Jog&aacute;ll&aacute;s</strong>: Az egy&eacute;ni v&aacute;llalkoz&aacute;s nem rendelkezik jogi szem&eacute;lyis&eacute;ggel.</li>
+<li><strong>Felelőss&eacute;g</strong>: Az egy&eacute;ni v&aacute;llalkoz&oacute; a tev&eacute;kenys&eacute;g&eacute;ből eredő k&ouml;telezetts&eacute;gei&eacute;rt teljes mag&aacute;nvagyon&aacute;val felel.</li>
+<li><strong>Nyilv&aacute;ntart&aacute;s</strong>: Az egy&eacute;ni v&aacute;llalkoz&oacute;t nyilv&aacute;ntart&aacute;sba veszik, amelyet a hat&oacute;s&aacute;g vezet.</li>
+</ul>
+<p><strong>Alap&iacute;t&aacute;s &eacute;s megsz&uuml;ntet&eacute;s</strong></p>
+<ul>
+<li><strong>Alap&iacute;t&aacute;s</strong>:</li>
+<ul>
+<li>Az egy&eacute;ni v&aacute;llalkoz&oacute;i tev&eacute;kenys&eacute;g megkezd&eacute;s&eacute;t elektronikus &uacute;ton (&uuml;gyf&eacute;lkapun kereszt&uuml;l) kell bejelenteni.</li>
+<li>K&eacute;pes&iacute;t&eacute;shez vagy enged&eacute;lyhez k&ouml;t&ouml;tt tev&eacute;kenys&eacute;gek eset&eacute;ben ezek megl&eacute;te sz&uuml;ks&eacute;ges.</li>
+</ul>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Az egy&eacute;ni v&aacute;llalkoz&oacute;i tev&eacute;kenys&eacute;g megsz&uuml;ntet&eacute;se bejelent&eacute;ssel t&ouml;rt&eacute;nik.</li>
+<li>Egy&eacute;ni v&aacute;llalkoz&aacute;s megszűnik a v&aacute;llalkoz&oacute; hal&aacute;l&aacute;val, gondnoks&aacute;g al&aacute; helyez&eacute;s&eacute;vel, vagy ha jogszab&aacute;lyban meghat&aacute;rozott kiz&aacute;r&oacute; ok k&ouml;vetkezik be.</li>
+</ul>
+</ul>
+<p><strong>Tev&eacute;kenys&eacute;g &eacute;s k&ouml;telezetts&eacute;gek</strong></p>
+<ul>
+<li>Az egy&eacute;ni v&aacute;llalkoz&oacute; k&ouml;teles szem&eacute;lyesen k&ouml;zreműk&ouml;dni a tev&eacute;kenys&eacute;g folytat&aacute;s&aacute;ban.</li>
+<li>Az egy&eacute;ni v&aacute;llalkoz&oacute; tev&eacute;kenys&eacute;g&eacute;re vonatkoz&oacute; adatokat (sz&eacute;khely, tev&eacute;kenys&eacute;gi k&ouml;r&ouml;k stb.) nyilv&aacute;n kell tartani.</li>
+<li>Az "egy&eacute;ni v&aacute;llalkoz&oacute;" megjel&ouml;l&eacute;st minden hivatalos dokumentumon felt&uuml;ntetni kell.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="2">
+<li><strong> Egy&eacute;ni c&eacute;g</strong></li>
+</ol>
+<p><strong>Fogalma</strong></p>
+<p>Az egy&eacute;ni c&eacute;g olyan, egy&eacute;ni v&aacute;llalkoz&oacute; &aacute;ltal alap&iacute;tott, jogi szem&eacute;lyis&eacute;ggel nem rendelkező jogalany, amely a c&eacute;gnyilv&aacute;ntart&aacute;sba val&oacute; bejegyz&eacute;ssel j&ouml;n l&eacute;tre. Az egy&eacute;ni c&eacute;get a <strong>2006. &eacute;vi V. t&ouml;rv&eacute;ny (Ctv.)</strong> szab&aacute;lyozza.</p>
+<p><strong>Főbb jellemzői</strong></p>
+<ul>
+<li><strong>Jog&aacute;ll&aacute;s</strong>: Az egy&eacute;ni c&eacute;g jogk&eacute;pes, c&eacute;gneve alatt jogokat szerezhet &eacute;s k&ouml;telezetts&eacute;geket v&aacute;llalhat.</li>
+<li><strong>Felelőss&eacute;g</strong>: Az egy&eacute;ni c&eacute;g elsődlegesen a saj&aacute;t vagyon&aacute;val felel. Ha a vagyona nem elegendő, a tag korl&aacute;tlanul felel a k&ouml;telezetts&eacute;gek&eacute;rt.</li>
+<li><strong>Nyilv&aacute;noss&aacute;g</strong>: Az egy&eacute;ni c&eacute;gre vonatkoz&oacute; jogok, t&eacute;nyek &eacute;s adatok nyilv&aacute;nosak.</li>
+</ul>
+<p><strong>Alap&iacute;t&aacute;s &eacute;s műk&ouml;d&eacute;s</strong></p>
+<ul>
+<li><strong>Alap&iacute;t&aacute;s</strong>:</li>
+<ul>
+<li>Csak nyilv&aacute;ntartott egy&eacute;ni v&aacute;llalkoz&oacute; alap&iacute;thatja.</li>
+<li>Alap&iacute;t&oacute; okirat sz&uuml;ks&eacute;ges, amely k&ouml;zjegyző vagy &uuml;gyv&eacute;d &aacute;ltal k&eacute;sz&iacute;tett dokumentum.</li>
+</ul>
+<li><strong>Műk&ouml;d&eacute;s</strong>:</li>
+<ul>
+<li>Az egy&eacute;ni c&eacute;g &uuml;zleti tev&eacute;kenys&eacute;g&eacute;t a tag d&ouml;nt&eacute;sei alapj&aacute;n v&eacute;gzi.</li>
+<li>A c&eacute;gn&eacute;vben fel kell t&uuml;ntetni az "egy&eacute;ni c&eacute;g" vagy "ec." megjel&ouml;l&eacute;st.</li>
+</ul>
+</ul>
+<p><strong>Tev&eacute;kenys&eacute;g &eacute;s megsz&uuml;ntet&eacute;s</strong></p>
+<ul>
+<li>Az egy&eacute;ni c&eacute;g nem folytathat tev&eacute;kenys&eacute;get a c&eacute;gnyilv&aacute;ntart&aacute;sba val&oacute; bejegyz&eacute;s előtt.</li>
+<li><strong>Megszűn&eacute;s</strong>:</li>
+<ul>
+<li>Az egy&eacute;ni c&eacute;g megszűnhet jogut&oacute;ddal (pl. t&aacute;rsas&aacute;gg&aacute; alakul&aacute;s) vagy jogut&oacute;d n&eacute;lk&uuml;l (felsz&aacute;mol&aacute;s, v&eacute;gelsz&aacute;mol&aacute;s).</li>
+</ul>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&Ouml;sszehasonl&iacute;t&aacute;s</strong></p>
+<p><strong><img src="img_tetelek/13_Osszegzes.png" alt="13_Osszegzes" /></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

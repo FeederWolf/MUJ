@@ -1,0 +1,160 @@
+:root {
+  --c1: #003566;
+  --c2: #001d3d;
+  --c3: #001027;
+  --c4: #000814;
+}
+* {
+  font-family: "Open Sans", serif;
+}
+
+html,
+body {
+  background-color: var(--c3) !important;
+  color: white !important;
+}
+body {
+  padding: 10px;
+}
+/*PANELS*/
+.col,
+.col-3 {
+  background-color: var(--c2);
+  border-radius: 1.33rem;
+  margin: 0px 0px 0px 10px;
+  padding: 10px;
+}
+#listaDesktop,
+.textOutputWindow {
+  height: calc(100vh - 20px); /* A teljes magasság hézaggal */
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/*BUTTONS*/
+button {
+  color: white;
+  transition: transform 0.1s ease-in-out;
+}
+button:hover {
+  transform: scale(1.1);
+}
+button:active {
+  transform: scale(0.9);
+}
+
+/*ICONS*/
+.icons {
+  display: flex;
+  justify-content: flex-end;
+}
+.icons button {
+  padding: 5px 10px;
+  background: none;
+  border: none;
+}
+#showList {
+  display: none;
+}
+
+#textOutput_desktop,
+.icons {
+  width: 100%;
+}
+/*LAYER 1*/
+#layer_1 {
+  z-index: 2;
+}
+
+#layer_1 .container {
+  position: absolute;
+  bottom: 12px;
+  left: 50%; /* Vízszintesen középre tolás */
+  transform: translateX(-50%); /* Középpont igazítása */
+  max-width: 50%;
+  background-color: var(--c2);
+  border-radius: 1.33rem;
+  padding: 10px;
+}
+
+#layer_1 button {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 100%;
+  border: none;
+  background-color: var(--c1);
+  font-weight: bold;
+
+  transition: transform 0.1s ease-in-out;
+}
+
+/*LAYER 2*/
+#listaDesktop {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Vízszintes középre igazítás */
+  font-size: small;
+}
+
+#listaDesktop button {
+  width: 90%;
+
+  /*Szöveg levágása*/
+  word-wrap: break-word; /* Szövegtördelés engedélyezése */
+  white-space: normal; /* A szöveg több soros lehet */
+
+  padding: 12px;
+  margin: 10px 0px;
+
+  border-radius: 0.33rem;
+  border: none;
+  background-color: var(--c1);
+  font-weight: bold;
+  text-align: left;
+
+  transition: transform 0.1s ease-in-out;
+}
+
+#listaDesktop hr {
+  height: 2px;
+  border-width: 0;
+  color: var(--c4);
+  background-color: var(--c4);
+}
+
+#textOutput_desktop {
+  padding: 30px 70px;
+  font-size: 18px;
+}
+
+/*LAYER 3*/
+#layer_3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  height: calc(100vh - 5px);
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  background-color: var(--c3);
+}
+
+.hidden {
+  display: none !important;
+}
+.visible {
+  display: block !important;
+}
+
+#layer_1 {
+  display: block;
+}
+#layer_2 {
+  display: none;
+}
+#layer_3 {
+  display: none;
+}

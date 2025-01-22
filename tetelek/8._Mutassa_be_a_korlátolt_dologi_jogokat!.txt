@@ -1,0 +1,102 @@
+<h2>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mutassa be a korl&aacute;tolt dologi jogokat!</h2>
+<p>&nbsp;</p>
+<p><strong>A korl&aacute;tolt dologi jogok fogalma</strong></p>
+<p>A <strong>korl&aacute;tolt dologi jogok</strong> olyan jogok, amelyek m&aacute;s tulajdon&aacute;ban &aacute;ll&oacute; dologra vonatkoznak, &eacute;s annak meghat&aacute;rozott haszn&aacute;lat&aacute;t, hasznainak szed&eacute;s&eacute;t vagy megterhel&eacute;s&eacute;t teszik lehetőv&eacute;. Ezek a jogok a tulajdonjog bizonyos elemeit ruh&aacute;zz&aacute;k &aacute;t a jogosultra, mik&ouml;zben a tulajdonos jogait korl&aacute;tozz&aacute;k.</p>
+<ul>
+<li><strong>L&eacute;nyege</strong>: Ezek a jogok mindig korl&aacute;tozottabbak, mint a teljes tulajdonjog, &eacute;s csak meghat&aacute;rozott c&eacute;lra terjednek ki.</li>
+<li><strong>Jellemzőj&uuml;k</strong>: Abszol&uacute;t hat&aacute;ly&uacute;ak, azaz mindenkivel szemben &eacute;rv&eacute;nyes&iacute;thetők.</li>
+</ul>
+<p><strong>Polg&aacute;ri T&ouml;rv&eacute;nyk&ouml;nyv (Ptk.) kapcsol&oacute;d&oacute; szakaszai:</strong></p>
+<ul>
+<li><strong>5:1. &sect; &ndash; 5:60. &sect;</strong>: A dologi jog &aacute;ltal&aacute;nos szab&aacute;lyai.</li>
+<li><strong>5:85. &sect; &ndash; 5:115. &sect;</strong>: Korl&aacute;tolt dologi jogok, bele&eacute;rtve a haszon&eacute;lvezeti jogot, telki szolgalmat, &eacute;s z&aacute;logjogot.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A korl&aacute;tolt dologi jogok t&iacute;pusai</strong></p>
+<ol>
+<li><strong> Haszn&aacute;lati jogok</strong></li>
+</ol>
+<p>Olyan korl&aacute;tolt dologi jogok, amelyek m&aacute;s szem&eacute;ly tulajdon&aacute;ban l&eacute;vő dolgok haszn&aacute;lat&aacute;ra vonatkoznak.</p>
+<p><strong>P&eacute;ld&aacute;k:</strong></p>
+<ul>
+<li><strong>Telki szolgalom [Ptk. 5:156. &sect; &ndash; 5:168. &sect;]</strong>:</li>
+<ul>
+<li>Egy telek (szolgalmi telek) tulajdonos&aacute;t k&ouml;telezi arra, hogy a szomsz&eacute;dos telek (uralkod&oacute; telek) tulajdonosa haszn&aacute;lhassa.</li>
+<li><strong>P&eacute;lda</strong>: Egy szomsz&eacute;dos telek tulajdonosa jogosult &aacute;tj&aacute;rni a szolgalmi telken.</li>
+</ul>
+<li><strong>Haszon&eacute;lvezeti jog [Ptk. 5:145. &sect; &ndash; 5:155. &sect;]</strong>:</li>
+<ul>
+<li>Egy szem&eacute;ly jogosult egy dolog haszn&aacute;lat&aacute;ra &eacute;s hasznainak szed&eacute;s&eacute;re, de nem v&aacute;lhat tulajdonoss&aacute;.</li>
+<li><strong>P&eacute;lda</strong>: Egy idős sz&uuml;lő haszon&eacute;lvezeti joggal rendelkezik a gyermek tulajdon&aacute;ban l&eacute;vő h&aacute;zon, amelyben &eacute;lete v&eacute;g&eacute;ig lakhat.</li>
+</ul>
+<li><strong>Lak&aacute;shaszn&aacute;lati jog [Ptk. 5:155. &sect; (2)]</strong>:</li>
+<ul>
+<li>Meghat&aacute;rozott szem&eacute;ly lakhat&aacute;si jog&aacute;t biztos&iacute;tja egy adott ingatlanban.</li>
+<li><strong>P&eacute;lda</strong>: Egy &ouml;zvegy h&aacute;zast&aacute;rs a k&ouml;z&ouml;sen lakott ingatlant haszn&aacute;lhatja tov&aacute;bb.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ol start="2">
+<li><strong> &Eacute;rt&eacute;kjogok</strong></li>
+</ol>
+<p>Ezek a jogok egy dolog &eacute;rt&eacute;k&eacute;nek biztos&iacute;t&aacute;s&aacute;ra vagy megszerz&eacute;s&eacute;re szolg&aacute;lnak.</p>
+<p><strong>P&eacute;ld&aacute;k:</strong></p>
+<ul>
+<li><strong>Z&aacute;logjog [Ptk. 5:86. &sect; &ndash; 5:113. &sect;]</strong>:</li>
+<ul>
+<li>A z&aacute;logjogosult jogosult a z&aacute;logt&aacute;rgyb&oacute;l kiel&eacute;g&iacute;t&eacute;st keresni, ha a k&ouml;telezett nem teljes&iacute;t.</li>
+<li><strong>P&eacute;lda</strong>: Egy bank jelz&aacute;logot jegyez be egy ingatlanra a hitel biztos&iacute;t&eacute;kak&eacute;nt.</li>
+</ul>
+<li><strong>Előv&aacute;s&aacute;rl&aacute;si jog [Ptk. 5:81. &sect; &ndash; 5:85. &sect;]</strong>:</li>
+<ul>
+<li>A jogosultnak elsőbbs&eacute;get biztos&iacute;t a dolog megv&aacute;s&aacute;rl&aacute;s&aacute;ra, ha a tulajdonos azt &eacute;rt&eacute;kes&iacute;teni k&iacute;v&aacute;nja.</li>
+<li><strong>P&eacute;lda</strong>: Egy b&eacute;rlő előv&aacute;s&aacute;rl&aacute;si jogot kap arra az ingatlanra, amelyben lakik, ha a tulajdonos elad&aacute;sra k&iacute;n&aacute;lja.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A korl&aacute;tolt dologi jogok l&eacute;trej&ouml;tte &eacute;s megszűn&eacute;se</strong></p>
+<p><strong>L&eacute;trej&ouml;tte:</strong></p>
+<ol>
+<li><strong>Szerződ&eacute;s alapj&aacute;n [Ptk. 6:58. &sect; &ndash; 6:61. &sect; (&Aacute;ltal&aacute;nos szerződ&eacute;si szab&aacute;lyok)]</strong>:</li>
+<ul>
+<li>A felek meg&aacute;llapod&aacute;sa, p&eacute;ld&aacute;ul z&aacute;logszerződ&eacute;s.</li>
+</ul>
+<li><strong>B&iacute;r&oacute;s&aacute;gi hat&aacute;rozat alapj&aacute;n [Ptk. 5:158. &sect; (4) (Szolgalmi jog b&iacute;r&oacute;i meg&aacute;llap&iacute;t&aacute;sa)]</strong>:</li>
+<ul>
+<li>P&eacute;ld&aacute;ul szolgalmi jog meg&aacute;llap&iacute;t&aacute;sa, ha egy telek megk&ouml;zel&iacute;thetetlen m&aacute;sk&eacute;pp.</li>
+</ul>
+<li><strong>Jogszab&aacute;ly rendelkez&eacute;se alapj&aacute;n [Ptk. 5:155. &sect; (2) (&Ouml;r&ouml;kl&eacute;si jogb&oacute;l fakad&oacute; lak&aacute;shaszn&aacute;lati jog)]</strong>:</li>
+<ul>
+<li>P&eacute;ld&aacute;ul a h&aacute;zast&aacute;rs lak&aacute;shaszn&aacute;lati joga az &ouml;r&ouml;kl&eacute;si jog alapj&aacute;n.</li>
+</ul>
+</ol>
+<p><strong>Megszűn&eacute;se:</strong></p>
+<ol>
+<li><strong>Jogosult hal&aacute;la [Ptk. 5:145. &sect; (3)]:</strong> (szem&eacute;lyes jogok eset&eacute;n, pl. haszon&eacute;lvezet).</li>
+<li><strong>A jog t&aacute;rgy&aacute;nak megsemmis&uuml;l&eacute;se [Ptk. 5:86. &sect; (1)]:</strong> (pl. a z&aacute;logk&eacute;nt szolg&aacute;l&oacute; dolog megsemmis&uuml;l&eacute;se).</li>
+<li><strong>Jogviszony megsz&uuml;ntet&eacute;se [Ptk. 6:213. &sect; (Szerződ&eacute;sek megsz&uuml;ntet&eacute;se k&ouml;z&ouml;s megegyez&eacute;ssel)]</strong>:</li>
+<ul>
+<li>P&eacute;ld&aacute;ul a felek k&ouml;z&ouml;s megegyez&eacute;se alapj&aacute;n.</li>
+</ul>
+<li><strong>Jogbeolvad&aacute;s [Ptk. 5:60. &sect; (Dologi jogok megszűn&eacute;se tulajdonosi egys&eacute;ggel).]</strong>:</li>
+<ul>
+<li>Ha a jogosult megszerzi a dolog tulajdonjog&aacute;t, a korl&aacute;tolt dologi jog megszűnik.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>R&eacute;szletesebb p&eacute;ld&aacute;k</strong></p>
+<ol>
+<li><strong>Z&aacute;logjog</strong>:</li>
+<ul>
+<li>Egy gazdas&aacute;gi t&aacute;rsas&aacute;g hitelt vesz fel, &eacute;s az egyik telephely&eacute;t z&aacute;logjogk&eacute;nt biztos&iacute;tja. Ha a hitelt nem t&ouml;rlesztik, a bank &aacute;rver&eacute;s &uacute;tj&aacute;n kiel&eacute;g&iacute;theti k&ouml;vetel&eacute;s&eacute;t az ingatlan &eacute;rt&eacute;k&eacute;ből.</li>
+</ul>
+<li><strong>Haszon&eacute;lvezeti jog</strong>:</li>
+<ul>
+<li>Egy &eacute;desanya hal&aacute;la előtt v&eacute;grendeletben biztos&iacute;tja, hogy a gyermekei &ouml;r&ouml;k&ouml;ljenek egy h&aacute;zat, de az &ouml;zvegy f&eacute;rj &eacute;lete v&eacute;g&eacute;ig haszon&eacute;lvezeti joggal rendelkezzen az ingatlan felett.</li>
+</ul>
+<li><strong>Telki szolgalom</strong>:</li>
+<ul>
+<li>Egy vid&eacute;ki gazd&aacute;lkod&oacute; telk&eacute;n v&iacute;zvezet&eacute;k szolgalmat jegyeznek be, amely lehetőv&eacute; teszi, hogy a szomsz&eacute;dos telek tulajdonosa v&iacute;zvezet&eacute;ket vezessen &aacute;t rajta.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>

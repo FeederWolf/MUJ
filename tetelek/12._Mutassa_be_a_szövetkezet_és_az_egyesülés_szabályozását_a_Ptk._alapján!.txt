@@ -1,0 +1,92 @@
+<h2>12.&nbsp;&nbsp;&nbsp;&nbsp; Mutassa be a sz&ouml;vetkezet &eacute;s az egyes&uuml;l&eacute;s szab&aacute;lyoz&aacute;s&aacute;t a Ptk. alapj&aacute;n!</h2>
+<p>&nbsp;</p>
+<ol>
+<li><strong> Sz&ouml;vetkezet [3:325. &sect; &ndash; 3:372. &sect;]</strong></li>
+</ol>
+<p><strong>Fogalma</strong></p>
+<p>A sz&ouml;vetkezet olyan jogi szem&eacute;ly, amelyet a tagok vagyoni hozz&aacute;j&aacute;rul&aacute;s&aacute;b&oacute;l hoznak l&eacute;tre a nyitott tags&aacute;g &eacute;s v&aacute;ltoz&oacute; tőke elvei szerint. C&eacute;lja a tagok gazdas&aacute;gi &eacute;s t&aacute;rsadalmi sz&uuml;ks&eacute;gleteinek kiel&eacute;g&iacute;t&eacute;se k&ouml;z&ouml;s gazdas&aacute;gi tev&eacute;kenys&eacute;g v&eacute;gz&eacute;s&eacute;vel.</p>
+<p><strong>Főbb jellemzők</strong></p>
+<ul>
+<li><strong>Nyitott tags&aacute;g [3:325. &sect;]</strong>: B&aacute;rki csatlakozhat, aki megfelel az alapszab&aacute;ly felt&eacute;teleinek.</li>
+<li><strong>V&aacute;ltoz&oacute; tőke [3:327. &sect;.]</strong>: A sz&ouml;vetkezet alaptők&eacute;je a tagok vagyoni hozz&aacute;j&aacute;rul&aacute;s&aacute;nak v&aacute;ltoz&aacute;s&aacute;val nőhet vagy cs&ouml;kkenhet.</li>
+<li><strong>Tagi felelőss&eacute;g [3:328. &sect;.]</strong>: A tagok csak a v&aacute;llalt vagyoni hozz&aacute;j&aacute;rul&aacute;suk m&eacute;rt&eacute;k&eacute;ig felelnek, a sz&ouml;vetkezet k&ouml;telezetts&eacute;gei&eacute;rt nem k&ouml;telesek helyt&aacute;llni.</li>
+</ul>
+<p><strong>Alap&iacute;t&aacute;s [3:329. &sect;.]</strong></p>
+<ul>
+<li>Legal&aacute;bb 7 tag sz&uuml;ks&eacute;ges az alap&iacute;t&aacute;shoz.</li>
+<li>Az alap&iacute;t&oacute; tagoknak alapszab&aacute;lyt kell k&eacute;sz&iacute;teni&uuml;k, amely meghat&aacute;rozza a sz&ouml;vetkezet műk&ouml;d&eacute;s&eacute;nek &eacute;s gazdas&aacute;gi tev&eacute;kenys&eacute;g&eacute;nek szab&aacute;lyait.</li>
+</ul>
+<p><strong>Tev&eacute;kenys&eacute;g [3:335. &sect;.]</strong></p>
+<ul>
+<li>Fők&eacute;nt &eacute;rt&eacute;kes&iacute;t&eacute;sre, beszerz&eacute;sre, termel&eacute;sre vagy szolg&aacute;ltat&aacute;sra ir&aacute;nyulhat.</li>
+<li>Bizonyos tev&eacute;kenys&eacute;gekhez hat&oacute;s&aacute;gi enged&eacute;ly sz&uuml;ks&eacute;ges.</li>
+</ul>
+<p><strong>Szervezet [3:340. &sect;.]</strong></p>
+<ul>
+<li><strong>K&ouml;zgyűl&eacute;s</strong>: A legfőbb d&ouml;nt&eacute;shoz&oacute; szerv, amely az alapszab&aacute;ly m&oacute;dos&iacute;t&aacute;s&aacute;t, tiszts&eacute;gviselők v&aacute;laszt&aacute;s&aacute;t, besz&aacute;mol&oacute;k elfogad&aacute;s&aacute;t v&eacute;gzi.</li>
+<li><strong>Igazgat&oacute;s&aacute;g</strong>: &Uuml;gyvezető szerv, legal&aacute;bb h&aacute;rom tagb&oacute;l &aacute;ll.</li>
+</ul>
+<p><strong>Megszűn&eacute;s [3:371. &sect;.]</strong></p>
+<ul>
+<li>Ha a tagl&eacute;tsz&aacute;m 7 fő al&aacute; cs&ouml;kken, &eacute;s 6 h&oacute;napon bel&uuml;l nem p&oacute;tolj&aacute;k, a sz&ouml;vetkezet jogut&oacute;d n&eacute;lk&uuml;l megszűnik.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="2">
+<li><strong> Egyes&uuml;l&eacute;s [3:372. &sect; &ndash; 3:382. &sect;]</strong></li>
+</ol>
+<p><strong>Fogalma</strong></p>
+<p>Az egyes&uuml;l&eacute;s jogi szem&eacute;lyis&eacute;ggel rendelkező kooper&aacute;ci&oacute;s t&aacute;rsas&aacute;g, amelyet a tagok gazdas&aacute;gi tev&eacute;kenys&eacute;g&uuml;k &ouml;sszehangol&aacute;s&aacute;ra &eacute;s szakmai &eacute;rdekeik k&eacute;pviselet&eacute;re hoznak l&eacute;tre. Saj&aacute;t nyeres&eacute;gre nem t&ouml;rekszik.</p>
+<p><strong>Főbb jellemzők</strong></p>
+<ul>
+<li><strong>Kooper&aacute;ci&oacute;s c&eacute;l [3:372. &sect;.]</strong>: Az egyes&uuml;l&eacute;s c&eacute;lja a tagok gazd&aacute;lkod&aacute;s&aacute;nak előmozd&iacute;t&aacute;sa &eacute;s &ouml;sszehangol&aacute;sa.</li>
+<li><strong>Tagi felelőss&eacute;g [3:374. &sect;.]</strong>: A tagok az egyes&uuml;l&eacute;s tartoz&aacute;sai&eacute;rt egyetemlegesen felelnek.</li>
+</ul>
+<p><strong>Alap&iacute;t&aacute;s [3:376. &sect;.]</strong></p>
+<ul>
+<li>Az alap&iacute;t&aacute;shoz t&aacute;rsas&aacute;gi szerződ&eacute;s sz&uuml;ks&eacute;ges, amely tartalmazza:</li>
+<ul>
+<li>A tagok gazd&aacute;lkod&aacute;s&aacute;nak &ouml;sszehangol&aacute;s&aacute;ra vonatkoz&oacute; szab&aacute;lyokat.</li>
+<li>A műk&ouml;d&eacute;si k&ouml;lts&eacute;gek megoszt&aacute;s&aacute;t.</li>
+<li>A kil&eacute;pő tag vagyoni h&aacute;nyad&aacute;nak rendez&eacute;s&eacute;t.</li>
+</ul>
+</ul>
+<p><strong>Tev&eacute;kenys&eacute;g (c&eacute;l) [3:372. &sect;]</strong></p>
+<ul>
+<li>Az egyes&uuml;l&eacute;s szakmai &eacute;rdekk&eacute;pviseleti &eacute;s gazd&aacute;lkod&aacute;si tev&eacute;kenys&eacute;get v&eacute;gezhet.</li>
+<li>A tagok sz&aacute;m&aacute;ra ellenszolg&aacute;ltat&aacute;s n&eacute;lk&uuml;l ny&uacute;jtott szolg&aacute;ltat&aacute;sokat is biztos&iacute;that.</li>
+</ul>
+<p><strong>Szervezet</strong></p>
+<ul>
+<li><strong>Taggyűl&eacute;s</strong>: A d&ouml;nt&eacute;shoz&oacute; szerv, amely legal&aacute;bb &eacute;vente egyszer &uuml;l&eacute;sezik.</li>
+<li><strong>&Uuml;gyvezet&eacute;s</strong>: Az igazgat&oacute; vagy igazgat&oacute;s&aacute;g v&eacute;gzi a taggyűl&eacute;s hat&aacute;rozatai alapj&aacute;n.</li>
+</ul>
+<p><strong>Megszűn&eacute;s</strong></p>
+<ul>
+<li>Az egyes&uuml;l&eacute;s megszűnhet jogut&oacute;d n&eacute;lk&uuml;l, ha a tagok ezt h&aacute;romnegyedes sz&oacute;t&ouml;bbs&eacute;ggel eld&ouml;ntik.</li>
+</ul>
+<h3>R&eacute;szletes p&eacute;ld&aacute;k</h3>
+<ol>
+<li><strong>Sz&ouml;vetkezet</strong>:</li>
+<ul>
+<li>Egy mezőgazdas&aacute;gi sz&ouml;vetkezetet 10 gazda alap&iacute;t, hogy k&ouml;z&ouml;sen &eacute;rt&eacute;kes&iacute;ts&eacute;k term&eacute;nyeiket. A tagok k&ouml;z&ouml;s p&eacute;nzalapba fizetnek be, amelyből g&eacute;peket v&aacute;s&aacute;rolnak &eacute;s k&ouml;z&ouml;sen haszn&aacute;lj&aacute;k.</li>
+</ul>
+<li><strong>Egyes&uuml;l&eacute;s</strong>:</li>
+<ul>
+<li>T&ouml;bb kis csal&aacute;di p&eacute;ks&eacute;g egyes&uuml;l&eacute;st hoz l&eacute;tre, hogy &ouml;sszehangolj&aacute;k az alapanyag-beszerz&eacute;st, &eacute;s k&ouml;z&ouml;sen t&aacute;rgyaljanak a nagykereskedőkkel.</li>
+</ul>
+</ol>
+<h3>R&eacute;szletes p&eacute;ld&aacute;k</h3>
+<ol>
+<li><strong>Sz&ouml;vetkezet</strong>:</li>
+<ul>
+<li>Egy mezőgazdas&aacute;gi sz&ouml;vetkezetet 10 gazda alap&iacute;t, hogy k&ouml;z&ouml;sen &eacute;rt&eacute;kes&iacute;ts&eacute;k term&eacute;nyeiket. A tagok k&ouml;z&ouml;s p&eacute;nzalapba fizetnek be, amelyből g&eacute;peket v&aacute;s&aacute;rolnak &eacute;s k&ouml;z&ouml;sen haszn&aacute;lj&aacute;k.</li>
+</ul>
+<li><strong>Egyes&uuml;l&eacute;s</strong>:</li>
+<ul>
+<li>T&ouml;bb kis csal&aacute;di p&eacute;ks&eacute;g egyes&uuml;l&eacute;st hoz l&eacute;tre, hogy &ouml;sszehangolj&aacute;k az alapanyag-beszerz&eacute;st, &eacute;s k&ouml;z&ouml;sen t&aacute;rgyaljanak a nagykereskedőkkel.</li>
+</ul>
+</ol>
+<h3><span lang="HU">&Ouml;sszehasonl&iacute;t&aacute;s</span></h3>
+<p><span lang="HU"><img src="img_tetelek/12_Osszegzes.png" alt="12_Osszegzes" /></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

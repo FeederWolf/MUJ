@@ -1,0 +1,116 @@
+<h2>10.&nbsp;&nbsp;&nbsp;&nbsp; Ismertesse a k&ouml;telem fogalm&aacute;t &eacute;s &aacute;ltal&aacute;nos szab&aacute;lyait, a szerződ&eacute;sek fontosabb szab&aacute;lyait, t&iacute;pusait, fajt&aacute;it, illetve az egy&eacute;b k&ouml;telem keletkeztető t&eacute;nyeket!</h2>
+<p>&nbsp;</p>
+<p><strong>[Kapcsol&oacute;d&oacute; Ptk. paragrafusok]</strong></p>
+<p><em>Mindk&eacute;t jogter&uuml;let szorosan &ouml;sszef&uuml;gg, p&eacute;ld&aacute;ul egy ad&aacute;sv&eacute;teli szerződ&eacute;s egyszerre keletkeztet k&ouml;telmi jogot (a v&eacute;tel&aacute;r megfizet&eacute;s&eacute;re) &eacute;s dologi jogot (a tulajdonjog &aacute;truh&aacute;z&aacute;s&aacute;ra).</em></p>
+<p>&nbsp;</p>
+<p><strong>A k&ouml;telem fogalma [6:1. &sect; &ndash; 6:2. &sect;]</strong></p>
+<p>A <strong>k&ouml;telem</strong> a polg&aacute;ri jog egy jogviszonya, amelyben az egyik f&eacute;l (k&ouml;telezett) valamire k&ouml;teles, a m&aacute;sik f&eacute;l (jogosult) pedig jogosult ennek teljes&iacute;t&eacute;s&eacute;t k&ouml;vetelni. A k&ouml;telem alapvetően k&eacute;toldal&uacute; jogviszony, de lehet t&ouml;bbalany&uacute; is.</p>
+<ul>
+<li><strong>Jellemzője</strong>:</li>
+<ul>
+<li>A k&ouml;telezett meghat&aacute;rozott magatart&aacute;sra k&ouml;teles, p&eacute;ld&aacute;ul teljes&iacute;t&eacute;sre, tart&oacute;zkod&aacute;sra vagy valami tűr&eacute;s&eacute;re.</li>
+<li>A jogosult k&ouml;vetelheti a k&ouml;telezettől a szerződ&eacute;sben vagy jogszab&aacute;lyban meghat&aacute;rozott teljes&iacute;t&eacute;st.</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><strong>A k&ouml;telem keletkez&eacute;s&eacute;nek forr&aacute;sai</strong></p>
+<ol>
+<li><strong>Szerződ&eacute;s</strong>:</li>
+<ul>
+<li>A k&ouml;telmek leggyakoribb forr&aacute;sa.</li>
+<li><strong>P&eacute;lda</strong>: Ad&aacute;sv&eacute;teli szerződ&eacute;s, amelyben az elad&oacute; k&ouml;teles az ingatlant &aacute;tadni, a vevő pedig k&ouml;teles az &aacute;r&aacute;t megfizetni.</li>
+</ul>
+<li><strong>K&aacute;rokoz&aacute;s [6:518. &sect; &ndash; 6:540. &sect;]</strong>:</li>
+<ul>
+<li>Jogellenes k&aacute;rokoz&aacute;s eset&eacute;n k&aacute;rt&eacute;r&iacute;t&eacute;si k&ouml;telezetts&eacute;g keletkezik.</li>
+<li><strong>P&eacute;lda</strong>: Egy aut&oacute;s baleset sor&aacute;n okozott k&aacute;r&eacute;rt az okoz&oacute; k&ouml;teles helyt&aacute;llni.</li>
+</ul>
+<li><strong>Jogalap n&eacute;lk&uuml;li gazdagod&aacute;s [6:579. &sect;]</strong>:</li>
+<ul>
+<li>Amikor valaki m&aacute;s k&aacute;r&aacute;ra jogalap n&eacute;lk&uuml;l gazdagodik, k&ouml;teles azt visszat&eacute;r&iacute;teni.</li>
+<li><strong>P&eacute;lda</strong>: T&eacute;vesen &aacute;tutalt &ouml;sszeg visszafizet&eacute;s&eacute;nek k&ouml;telezetts&eacute;ge.</li>
+</ul>
+<li><strong>Egyoldal&uacute; jognyilatkozat</strong>:</li>
+<ul>
+<li>Bizonyos esetekben egyoldal&uacute; nyilatkozat is k&ouml;telem alapj&aacute;ul szolg&aacute;lhat.</li>
+<li><strong>P&eacute;lda</strong>: Egy adom&aacute;ny felaj&aacute;nl&aacute;sa, amely k&ouml;telezetts&eacute;get keletkeztethet.</li>
+</ul>
+<li><strong>Jogszab&aacute;ly rendelkez&eacute;se</strong>:</li>
+<ul>
+<li>Jogszab&aacute;ly alapj&aacute;n k&ouml;telezetts&eacute;gek keletkezhetnek.</li>
+<li><strong>Pl.: Tart&aacute;si k&ouml;telezetts&eacute;g</strong>: A Polg&aacute;ri T&ouml;rv&eacute;nyk&ouml;nyv alapj&aacute;n a sz&uuml;lő k&ouml;teles eltartani gyermek&eacute;t, ha az &ouml;nmag&aacute;t nem k&eacute;pes eltartani.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A szerződ&eacute;sek &aacute;ltal&aacute;nos szab&aacute;lyai [6:58. &sect; &ndash; 6:116. &sect;]</strong></p>
+<ol>
+<li><strong>Szerződ&eacute;si szabads&aacute;g</strong>:</li>
+<ul>
+<li>A felek szabadon alak&iacute;thatj&aacute;k ki a szerződ&eacute;s tartalm&aacute;t, felt&eacute;teleit, &eacute;s eld&ouml;nthetik, kivel k&ouml;tnek szerződ&eacute;st.</li>
+</ul>
+<li><strong>&Iacute;r&aacute;sbelis&eacute;g &eacute;s sz&oacute;belis&eacute;g</strong>:</li>
+<ul>
+<li>A szerződ&eacute;s lehet &iacute;r&aacute;sbeli, sz&oacute;beli vagy r&aacute;utal&oacute; magatart&aacute;ssal megk&ouml;t&ouml;tt.</li>
+<li><strong>P&eacute;lda</strong>: Ingatlan ad&aacute;sv&eacute;tel&eacute;hez &iacute;r&aacute;sbeli szerződ&eacute;s sz&uuml;ks&eacute;ges.</li>
+<li><strong>P&eacute;lda (sz&oacute;beli)</strong>: egy fodr&aacute;sz&uuml;zletben a vend&eacute;g &eacute;s a fodr&aacute;sz megegyeznek, hogy a hajv&aacute;g&aacute;s &aacute;ra 5000 forint.</li>
+</ul>
+<li><strong>&Eacute;rv&eacute;nyess&eacute;gi felt&eacute;telek</strong>:</li>
+<ul>
+<li>A szerződ&eacute;s akkor &eacute;rv&eacute;nyes, ha:</li>
+<ul>
+<li>A felek akaratnyilatkozata tal&aacute;lkozik.</li>
+<li>A szerződ&eacute;s nem &uuml;tk&ouml;zik jogszab&aacute;lyba vagy j&oacute; erk&ouml;lcsbe.</li>
+</ul>
+<li><strong>P&eacute;lda</strong>: Egy b&eacute;rleti szerződ&eacute;s &eacute;rv&eacute;nyes, ha a felek a b&eacute;rleti d&iacute;jban meg&aacute;llapodnak.</li>
+</ul>
+<li><strong>Teljes&iacute;t&eacute;si k&ouml;telezetts&eacute;g</strong>:</li>
+<ul>
+<li>A felek k&ouml;telesek a szerződ&eacute;sben foglaltakat pontosan &eacute;s időben teljes&iacute;teni.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A szerződ&eacute;sek t&iacute;pusai &eacute;s fajt&aacute;i</strong></p>
+<ol>
+<li><strong>Ad&aacute;sv&eacute;teli szerződ&eacute;s [6:215. &sect; &ndash; 6:227. &sect;]</strong>:</li>
+<ul>
+<li>Egyik f&eacute;l a tulajdonjog &aacute;truh&aacute;z&aacute;s&aacute;ra, a m&aacute;sik f&eacute;l az ellen&eacute;rt&eacute;k megfizet&eacute;s&eacute;re k&ouml;teles.</li>
+<li><strong>P&eacute;lda</strong>: Lak&aacute;s ad&aacute;sv&eacute;tele.</li>
+</ul>
+<li><strong>B&eacute;rleti szerződ&eacute;s</strong>:</li>
+<ul>
+<li>Az egyik f&eacute;l a dolgot haszn&aacute;latra &aacute;tengedi, a m&aacute;sik f&eacute;l b&eacute;rleti d&iacute;jat fizet.</li>
+<li><strong>P&eacute;lda</strong>: Lak&aacute;s b&eacute;rl&eacute;se.</li>
+</ul>
+<li><strong>K&ouml;lcs&ouml;nszerződ&eacute;s [6:383. &sect; &ndash; 6:388. &sect;]</strong>:</li>
+<ul>
+<li>Az egyik f&eacute;l meghat&aacute;rozott p&eacute;nz&ouml;sszeget vagy m&aacute;s dolgot ad k&ouml;lcs&ouml;n, amelyet a m&aacute;sik f&eacute;l k&ouml;teles visszafizetni.</li>
+<li><strong>P&eacute;lda</strong>: Banki hitelszerződ&eacute;s.</li>
+</ul>
+<li><strong>V&aacute;llalkoz&aacute;si szerződ&eacute;s [6:238. &sect; &ndash; 6:249. &sect;]</strong>:</li>
+<ul>
+<li>Az egyik f&eacute;l meghat&aacute;rozott eredm&eacute;ny el&eacute;r&eacute;s&eacute;re, a m&aacute;sik f&eacute;l az ellen&eacute;rt&eacute;k megfizet&eacute;s&eacute;re k&ouml;teles.</li>
+<li><strong>P&eacute;lda</strong>: &Eacute;p&iacute;tkez&eacute;si v&aacute;llalkoz&aacute;si szerződ&eacute;s.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
+<p><strong>A k&ouml;telem megszűn&eacute;se [6:41. &sect;; 6:213. &sect;; 6:179. &sect;; 6:22. &sect;]</strong></p>
+<ol>
+<li><strong>Teljes&iacute;t&eacute;s</strong>:</li>
+<ul>
+<li>A k&ouml;telezett marad&eacute;ktalanul teljes&iacute;ti a k&ouml;telezetts&eacute;g&eacute;t.</li>
+</ul>
+<li><strong>Megszűn&eacute;s meg&aacute;llapod&aacute;s alapj&aacute;n</strong>:</li>
+<ul>
+<li>A felek k&ouml;z&ouml;sen &uacute;gy d&ouml;ntenek, hogy megsz&uuml;ntetik a szerződ&eacute;st.</li>
+</ul>
+<li><strong>Lehetetlen&uuml;l&eacute;s</strong>:</li>
+<ul>
+<li>A teljes&iacute;t&eacute;s lehetetlenn&eacute; v&aacute;lik.</li>
+<li><strong>P&eacute;lda</strong>: Egy megrendelt term&eacute;k megsemmis&uuml;l.</li>
+</ul>
+<li><strong>El&eacute;v&uuml;l&eacute;s</strong>:</li>
+<ul>
+<li>Ha a jogosult a k&ouml;vetel&eacute;s&eacute;t meghat&aacute;rozott időn bel&uuml;l nem &eacute;rv&eacute;nyes&iacute;ti, a k&ouml;telem el&eacute;v&uuml;l.</li>
+</ul>
+</ol>
+<p>&nbsp;</p>
