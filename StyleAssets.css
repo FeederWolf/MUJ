@@ -1,0 +1,50 @@
+/*
+:root {
+  /*
+  --c1: #003566;
+  --c2: #001d3d;
+  --c3: #001027;
+  --c4: #000814;
+  
+}
+  */
+
+html,
+body {
+  background: #2b2b2b !important;
+  box-shadow: 20px 20px 60px #252525, -20px -20px 60px #313131 !important;
+}
+
+#layer_2 .col-3 {
+  border-radius: 50px 0px 0px 50px;
+
+  background: #2b2b2b;
+  box-shadow: inset 20px 20px 60px #252525, inset -20px -20px 60px #313131;
+}
+
+#layer_2 .col {
+  border-radius: 0px 50px 50px 0px;
+  background: #171717;
+  box-shadow: 20px 20px 60px #141414, -20px -20px 60px #1a1a1a;
+}
+
+.Neu_1 {
+  background: #171717;
+  box-shadow: 20px 20px 60px #141414, -20px -20px 60px #1a1a1a;
+}
+
+.Neu_1-b {
+  background: #171717;
+  box-shadow: 20px 20px 60px #141414, -20px -20px 60px #1a1a1a;
+  padding: 10px;
+  border-radius: 64px;
+}
+
+button {
+  background: #313131;
+  box-shadow: 1px 1px 10px #252525, -1px -1px 10px #313131;
+}
+
+#InfB_Github button {
+  background: #171717;
+}

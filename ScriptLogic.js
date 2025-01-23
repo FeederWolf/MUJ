@@ -29,16 +29,31 @@ document.addEventListener("DOMContentLoaded", () => {
     layer1.classList.add("hidden");
     layer1.classList.remove("visible");
 
+    const showListButton = document.getElementById("showList");
+    const resizeOriginalButton = document.getElementById("resize_original");
+
     if (window.matchMedia("(max-width: 600px)").matches) {
       layer3.classList.add("visible");
       layer3.classList.remove("hidden");
       layer2.classList.add("hidden");
       layer2.classList.remove("visible");
+
+      // showList megjelenítése mobilnézetben
+      if (showListButton) showListButton.style.display = "block";
+
+      // resizeOriginal rejtése mobilnézetben
+      if (resizeOriginalButton) resizeOriginalButton.style.display = "none";
     } else {
       layer2.classList.add("visible");
       layer2.classList.remove("hidden");
       layer3.classList.add("hidden");
       layer3.classList.remove("visible");
+
+      // resizeOriginal megjelenítése desktop nézetben
+      if (resizeOriginalButton) resizeOriginalButton.style.display = "block";
+
+      // showList rejtése desktop nézetben
+      if (showListButton) showListButton.style.display = "none";
     }
   }
 
@@ -56,6 +71,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Frissítés ablakméret változásakor
   window.addEventListener("resize", updateLayers);
+
+  // Gombok a rétegek közötti váltáshoz
+  const resizeOriginalButton = document.getElementById("resize_original");
+  const resizefullscreenButton = document.getElementById("resize_full");
+
+  if (resizeOriginalButton && resizefullscreenButton) {
+    resizeOriginalButton.addEventListener("click", () => {
+      layer3.classList.add("hidden");
+      layer3.classList.remove("visible");
+      layer2.classList.add("visible");
+      layer2.classList.remove("hidden");
+    });
+
+    resizefullscreenButton.addEventListener("click", () => {
+      layer2.classList.add("hidden");
+      layer2.classList.remove("visible");
+      layer3.classList.add("visible");
+      layer3.classList.remove("hidden");
+    });
+  }
 
   fileNames.forEach((fileName) => {
     const cleanedFileName = fileName
@@ -125,4 +160,41 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Alapértelmezett állapot beállítása
   updateLayers();
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  // Gomb és elemek referenciáinak megszerzése
+  const githubButton = document.getElementById("InfB_Github");
+  const githubInfo = document.getElementById("Inf_Github");
+  const githubInnerButton = githubButton.querySelector("button"); // Gomb a #InfB_Github belsejében
+
+  if (githubButton && githubInfo && githubInnerButton) {
+    // Egér belépése az elem fölé
+    githubButton.addEventListener("mouseenter", () => {
+      githubInfo.style.display = "inline";
+
+      setTimeout(() => {
+        githubInfo.style.fontSize = "14px";
+      }, 10); // Kis késleltetés a display és animációk között
+
+      // Border-radius változtatása
+      githubInnerButton.style.borderRadius = "64px";
+    });
+
+    // Egér elhagyása az elemről
+    githubButton.addEventListener("mouseleave", () => {
+      githubInfo.style.fontSize = "";
+
+      setTimeout(() => {
+        githubInfo.style.display = "none";
+      }, 300);
+
+      // Visszaállítás alapértelmezett állapotra
+      githubInnerButton.style.borderRadius = "100%";
+    });
+  } else {
+    console.error(
+      "Az egyik elem hiányzik: InfB_Github, Inf_Github vagy a gomb"
+    );
+  }
 });

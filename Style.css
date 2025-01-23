@@ -1,17 +1,10 @@
-:root {
-  --c1: #003566;
-  --c2: #001d3d;
-  --c3: #001027;
-  --c4: #000814;
-}
 * {
   font-family: "Open Sans", serif;
 }
 
 html,
 body {
-  background-color: var(--c3) !important;
-  color: white !important;
+  color: whitesmoke !important;
 }
 body {
   padding: 10px;
@@ -19,7 +12,6 @@ body {
 /*PANELS*/
 .col,
 .col-3 {
-  background-color: var(--c2);
   border-radius: 1.33rem;
   margin: 0px 0px 0px 10px;
   padding: 10px;
@@ -33,34 +25,57 @@ body {
 
 /*BUTTONS*/
 button {
-  color: white;
-  transition: transform 0.1s ease-in-out;
+  color: whitesmoke;
+  transition: transform 1s ease-in-out !important;
+  transition: margin 0.3s ease-in-out !important;
 }
+
 button:hover {
-  transform: scale(1.1);
+  transform: scale(1.05) !important;
 }
 button:active {
-  transform: scale(0.9);
+  transform: scale(0.95) !important;
+}
+
+#listaDesktop button:hover {
+  transform: translateY(-5px);
+  margin: 20px 0px !important;
+}
+
+#listaDesktop button:active {
+  margin: 0px 0px !important;
+}
+#listaDesktop button:focus {
+  background-color: #171717;
 }
 
 /*ICONS*/
 .icons {
   display: flex;
   justify-content: flex-end;
+  font-size: 24px;
 }
 .icons button {
   padding: 5px 10px;
   background: none;
   border: none;
 }
-#showList {
-  display: none;
-}
 
 #textOutput_desktop,
 .icons {
   width: 100%;
 }
+
+#layer_3 .icons {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+#layer_3 button {
+  margin: 8px 26px 8px 8px;
+}
+
 /*LAYER 1*/
 #layer_1 {
   z-index: 2;
@@ -72,7 +87,6 @@ button:active {
   left: 50%; /* Vízszintesen középre tolás */
   transform: translateX(-50%); /* Középpont igazítása */
   max-width: 50%;
-  background-color: var(--c2);
   border-radius: 1.33rem;
   padding: 10px;
 }
@@ -83,10 +97,7 @@ button:active {
   margin: 20px;
   border-radius: 100%;
   border: none;
-  background-color: var(--c1);
   font-weight: bold;
-
-  transition: transform 0.1s ease-in-out;
 }
 
 /*LAYER 2*/
@@ -109,27 +120,16 @@ button:active {
 
   border-radius: 0.33rem;
   border: none;
-  background-color: var(--c1);
+
   font-weight: bold;
   text-align: left;
 
   transition: transform 0.1s ease-in-out;
 }
 
-#listaDesktop hr {
-  height: 2px;
-  border-width: 0;
-  color: var(--c4);
-  background-color: var(--c4);
-}
-
-#textOutput_desktop {
-  padding: 30px 70px;
-  font-size: 18px;
-}
-
 /*LAYER 3*/
 #layer_3 {
+  padding: 52px 25px;
   position: absolute;
   left: 0;
   top: 0;
@@ -138,23 +138,74 @@ button:active {
   height: calc(100vh - 5px);
   overflow-y: scroll;
   overflow-x: hidden;
-
-  background-color: var(--c3);
 }
 
+/*footer*/
+footer {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+footer button {
+  padding: 8px 16px;
+  border: none;
+  font-size: 32px;
+}
+footer peter {
+  margin: 0px 12px 0px 0px;
+  font-size: 0px;
+  transition: all 0.3s ease-in-out;
+}
+
+#Inf_Github {
+  display: none;
+  font-size: 0px;
+  transition: font-size 0.3s ease;
+}
+
+#InfB_Github {
+  text-decoration: none;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+#InfB_Github:hover {
+  opacity: 1;
+}
+
+#InfB_Github button {
+  border-radius: 100%;
+  transition: border-radius 0.3s ease;
+
+  /* Függőleges középre igazítás */
+  display: flex;
+  align-items: center;
+}
+
+/*Documents*/
+img {
+  max-width: 100%; /* A kép maximális szélessége a szülő szélességéhez igazodik */
+  height: auto; /* A magasság arányosan változik a szélességgel */
+}
+#textOutput_desktop {
+  padding: 30px 70px;
+  font-size: 18px;
+}
+
+#textOutput_desktop ul,
+#textOutput_fullscreen ul,
+#textOutput_desktop ol,
+#textOutput_fullscreen ol {
+  margin-top: 25px;
+}
+#textOutput_desktop li,
+#textOutput_fullscreen li {
+  margin-top: 14px;
+}
+
+/*ScriptLogic.js*/
 .hidden {
   display: none !important;
 }
 .visible {
   display: block !important;
-}
-
-#layer_1 {
-  display: block;
-}
-#layer_2 {
-  display: none;
-}
-#layer_3 {
-  display: none;
 }

@@ -10,33 +10,14 @@
     margin: 5px;
   }
 
-  button:hover,
-  button:active {
+  button:hover {
     transform: scale(1);
-  }
-  /*ICONS*/
-  #resize_full {
-    display: none;
-  }
-  #showList {
-    display: block;
-  }
-  #resize_original {
-    display: none;
+    transform: translateY(0);
+    margin: 0px 0px !important;
   }
 
   /*LAYERS*/
   #layer_3 .container {
     width: 100%;
-  }
-
-  #layer_1 {
-    display: block;
-  }
-  #layer_2 {
-    display: none;
-  }
-  #layer_3 {
-    display: none;
   }
 }
