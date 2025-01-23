@@ -31,5 +31,3 @@ Ez a projekt egy modern, interaktív webes alkalmazást mutat be, amely dinamiku
 1. **Bővíthetőség:** Ha vannak további funkciók, azokat is hozzáadhatjuk a leíráshoz.
 2. **Pontosítás:** Ha konkrét technológiák (pl. Bootstrap verzió) szerepelnek, azokat pontosan feltüntethetjük.
 3. **Képek:** A `README.md`-hez képeket is hozzáadhatsz, hogy vizuálisan bemutasd a projektet. Példa:
-   ```markdown
-   ![Képernyőkép](https://via.placeholder.com/600x400)
