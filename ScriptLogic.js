@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const listaDesktop = document.getElementById("listaDesktop");
   const listaMain = document.getElementById("listaMain");
 
-  // Rétegek váltásának logikája
+  // RÉTEGEK VÁLTOZÁSÁNAK LOGIKÁJA
   function updateLayers() {
     layer1.classList.add("hidden");
     layer1.classList.remove("visible");
@@ -32,16 +32,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const showListButton = document.getElementById("showList");
     const resizeOriginalButton = document.getElementById("resize_original");
 
+    // telefonos nézet
     if (window.matchMedia("(max-width: 600px)").matches) {
       layer3.classList.add("visible");
       layer3.classList.remove("hidden");
       layer2.classList.add("hidden");
       layer2.classList.remove("visible");
 
-      // showList megjelenítése mobilnézetben
+      // showList megjelenítése MOBILNÉZETBEN
       if (showListButton) showListButton.style.display = "block";
 
-      // resizeOriginal rejtése mobilnézetben
+      // resizeOriginal rejtése MOBILNÉZETBEN
       if (resizeOriginalButton) resizeOriginalButton.style.display = "none";
     } else {
       layer2.classList.add("visible");
@@ -49,15 +50,15 @@ document.addEventListener("DOMContentLoaded", () => {
       layer3.classList.add("hidden");
       layer3.classList.remove("visible");
 
-      // resizeOriginal megjelenítése desktop nézetben
+      // resizeOriginal megjelenítése DESKTOP nézetben
       if (resizeOriginalButton) resizeOriginalButton.style.display = "block";
 
-      // showList rejtése desktop nézetben
+      // showList rejtése DESKTOP nézetben
       if (showListButton) showListButton.style.display = "none";
     }
   }
 
-  // Rétegek alapértelmezett állapota betöltéskor
+  // ALAPÉRTELMEZETT RÉTEG AKTIVÁLÁSA
   function initializeLayers() {
     layer1.classList.add("visible");
     layer1.classList.remove("hidden");
@@ -69,10 +70,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initializeLayers();
 
-  // Frissítés ablakméret változásakor
+  // FRISSÍTÉS ABLAK MÉRETÉNEK VÁLTOZÁSAKOR
   window.addEventListener("resize", updateLayers);
 
-  // Gombok a rétegek közötti váltáshoz
+  // GOMBOK, A RÉTEGEK KÖZTI VÁLTÁSKOR
   const resizeOriginalButton = document.getElementById("resize_original");
   const resizefullscreenButton = document.getElementById("resize_full");
 
@@ -93,6 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   fileNames.forEach((fileName) => {
+    // GOMBOK SZÖVEGÉNEK JAVÍTÁSA
     const cleanedFileName = fileName
       .replace("tetelek/", "")
       .replace(/_/g, " ")
@@ -100,7 +102,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const fileNumber = fileName.split("/")[1].split("_")[0];
 
-    // Desktop listához gomb
+    // LAYER_2: DESKTOP LISTÁHOZ GOMBOK HOZZÁADÁSA
     const desktopButton = document.createElement("button");
     desktopButton.textContent = cleanedFileName;
     desktopButton.addEventListener("click", () => {
@@ -123,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    // Main listához gomb
+    // LAYER_1: MAIN LISTÁHOZ GOMBOK HOZZÁADÁSA
     const mainButton = document.createElement("button");
     mainButton.textContent = fileNumber;
     mainButton.addEventListener("click", () => {
@@ -148,6 +150,65 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
+    // ALAPFOGALMAK BUTTON FUNKCIÓJA
+    /*
+    const alapfogalmakButton = document.getElementById("alapfogalmak");
+
+    if (alapfogalmakButton) {
+      alapfogalmakButton.addEventListener("click", () => {
+        updateLayers();
+        fetch("alapfogalmak/alapfogalmak.txt")
+          .then((response) => {
+            if (!response.ok)
+              throw new Error(
+                `Nem sikerült betölteni a fájlt: alapfogalmak/alapfogalmak.txt`
+              );
+            return response.text();
+          })
+          .then((content) => {
+            document.getElementById("textOutput_desktop").innerHTML = content;
+            document.getElementById("textOutput_fullscreen").innerHTML =
+              content;
+          })
+          .catch((error) => {
+            const errorMessage = `<span style="color: red;">Hiba: ${error.message}</span>`;
+            document.getElementById("textOutput_desktop").innerHTML =
+              errorMessage;
+            document.getElementById("textOutput_fullscreen").innerHTML =
+              errorMessage;
+          });
+      });
+    } else {
+      console.error("Az 'alapfogalmak' azonosítójú gomb nem található!");
+    }
+*/
+    // ALAPFOGALMAK BUTTON FUNKCIÓJA (összes létező "alapfogalmak" gombot megvizsgálja)
+    document.querySelectorAll("#alapfogalmak").forEach((button) => {
+      button.addEventListener("click", () => {
+        updateLayers();
+        fetch("alapfogalmak/alapfogalmak.txt")
+          .then((response) => {
+            if (!response.ok)
+              throw new Error(
+                "Nem sikerült betölteni az alapfogalmak.txt fájlt"
+              );
+            return response.text();
+          })
+          .then((content) => {
+            document.getElementById("textOutput_desktop").innerHTML = content;
+            document.getElementById("textOutput_fullscreen").innerHTML =
+              content;
+          })
+          .catch((error) => {
+            const errorMessage = `<span style="color: red;">Hiba: ${error.message}</span>`;
+            document.getElementById("textOutput_desktop").innerHTML =
+              errorMessage;
+            document.getElementById("textOutput_fullscreen").innerHTML =
+              errorMessage;
+          });
+      });
+    });
+
     listaDesktop.appendChild(desktopButton);
     listaMain.appendChild(mainButton);
   });
@@ -162,6 +223,7 @@ document.addEventListener("DOMContentLoaded", () => {
   updateLayers();
 });
 
+//GITHUB BUTTON STÍLUSA ÉS FUNKCIÓJA
 document.addEventListener("DOMContentLoaded", () => {
   // Gomb és elemek referenciáinak megszerzése
   const githubButton = document.getElementById("InfB_Github");
@@ -169,27 +231,23 @@ document.addEventListener("DOMContentLoaded", () => {
   const githubInnerButton = githubButton.querySelector("button"); // Gomb a #InfB_Github belsejében
 
   if (githubButton && githubInfo && githubInnerButton) {
-    // Egér belépése az elem fölé
+    // Egér BELÉPÉSE az elem fölé
     githubButton.addEventListener("mouseenter", () => {
       githubInfo.style.display = "inline";
 
       setTimeout(() => {
         githubInfo.style.fontSize = "14px";
-      }, 10); // Kis késleltetés a display és animációk között
-
-      // Border-radius változtatása
+      }, 10); // késleltetés
       githubInnerButton.style.borderRadius = "64px";
     });
 
-    // Egér elhagyása az elemről
+    // Egér ELHAGYÁSA az elemről
     githubButton.addEventListener("mouseleave", () => {
       githubInfo.style.fontSize = "";
 
       setTimeout(() => {
         githubInfo.style.display = "none";
       }, 300);
-
-      // Visszaállítás alapértelmezett állapotra
       githubInnerButton.style.borderRadius = "100%";
     });
   } else {

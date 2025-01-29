@@ -1,0 +1,186 @@
+<h1>A jog alapfogalmai:</h1>
+<p>&nbsp;</p>
+<ol>
+<li>Jog</li>
+</ol>
+<p>&nbsp;</p>
+<p>A <strong>t&aacute;rsadalmi</strong> <strong>viszonyokat szab&aacute;lyoz</strong>&oacute;, az <strong>&aacute;llam</strong> &aacute;ltal <strong>kik&eacute;nyszer&iacute;thető norm&aacute;k &ouml;sszess&eacute;ge</strong>, amelyek <strong>jogokat</strong> &eacute;s <strong>k&ouml;telezetts&eacute;geket</strong> &aacute;llap&iacute;tanak meg.</p>
+<p>&nbsp;</p>
+<ol start="2">
+<li>Jogrendszer</li>
+</ol>
+<p>&nbsp;</p>
+<p>Egy adott <strong>&aacute;llam</strong> vagy <strong>nemzetk&ouml;zi</strong> <strong>k&ouml;z&ouml;ss&eacute;g</strong> <u>&Eacute;RV&Eacute;NYES</u> <strong>jogszab&aacute;lyainak</strong> &eacute;s <strong>jogint&eacute;zm&eacute;nyeinek</strong> &ouml;sszess&eacute;ge. A magyar jogrendszer kontinent&aacute;lis (r&oacute;mai-germ&aacute;n) t&iacute;pus&uacute;.</p>
+<p>&nbsp;<img src="img_alapfogalmak/Jogrendszer.png" alt="Jogrendszer" /></p>
+<p>R&eacute;tegződ&eacute;s: Horizont&aacute;lis (<u>Jogter&uuml;let(Mag&aacute;njog, k&ouml;zjog)</u> Jog&aacute;g tagoz&oacute;d&aacute;s fent), Vertik&aacute;lis (alapt&ouml;rv&eacute;ny, t&ouml;rv&eacute;ny, rendelet)</p>
+<p>&nbsp;</p>
+<ol start="3">
+<li>Jogforr&aacute;s</li>
+</ol>
+<p>&nbsp;</p>
+<p>Azok az <strong>eszk&ouml;z&ouml;k</strong>, amelyből a <strong>jogi</strong> <strong>norm&aacute;k</strong> <strong>sz&aacute;rmaznak</strong>. K&eacute;t fő t&iacute;pusa:</p>
+<ul>
+<li>Anyagi jogforr&aacute;s: az a szerv, amely a jogot megalkotja (pl. Orsz&aacute;ggyűl&eacute;s).</li>
+<li>Alaki jogforr&aacute;s: az a dokumentum, amelyben a jogszab&aacute;ly megjelenik (pl. t&ouml;rv&eacute;ny, rendelet).</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="4">
+<li>Jogszab&aacute;ly</li>
+</ol>
+<p>&nbsp;</p>
+<p>A jogszab&aacute;lyok az <strong>&aacute;llami szervek</strong> &aacute;ltal <strong>kibocs&aacute;tott</strong>, <strong>mindenki sz&aacute;m&aacute;ra k&ouml;telező</strong> <u>magatart&aacute;si szab&aacute;lyok</u>. Fajt&aacute;i:</p>
+<ul>
+<li>Alkotm&aacute;ny (Alapt&ouml;rv&eacute;ny)</li>
+<li>T&ouml;rv&eacute;nyek</li>
+<li>Korm&aacute;nyrendeletek, miniszteri rendeletek</li>
+<li>&Ouml;nkorm&aacute;nyzati rendeletek</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="5">
+<li>Jogviszony</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Jogi norm&aacute;k</strong> &aacute;ltal szab&aacute;lyozott <strong>t&aacute;rsadalmi viszony</strong>, amelyben JOGALANYOK <u>EGYM&Aacute;SSAL SZEMBENI</u> <strong>jogokat </strong>&eacute;s<strong> k&ouml;telezetts&eacute;geket szereznek</strong>.</p>
+<p>&nbsp;</p>
+<ol start="6">
+<li>Jogi norma</li>
+</ol>
+<p><em>A jogi norma a <strong>jog</strong> <strong>legkisebb</strong>, <strong>&ouml;n&aacute;ll&oacute;</strong>, <strong>logikailag</strong> <strong>z&aacute;rt</strong> <strong>egys&eacute;ge</strong>, amely egy adott <strong>magatart&aacute;st szab&aacute;lyoz</strong>. Egy jogi norma meghat&aacute;rozza, hogy egy <strong>adott helyzetben</strong> mit<strong> kell</strong>, mit <strong>szabad </strong>vagy mit<strong> tilos tenni</strong>. </em></p>
+<p>&nbsp;</p>
+<p>A jog legkisebb &ouml;n&aacute;ll&oacute; szab&aacute;lyoz&aacute;si egys&eacute;ge, amely &aacute;ltal&aacute;ban h&aacute;rom r&eacute;szből &aacute;ll:</p>
+<ol>
+<li>Hipot&eacute;zis (felt&eacute;tel) &ndash; Azokat a k&ouml;r&uuml;lm&eacute;nyeket, felt&eacute;teleket hat&aacute;rozza meg, melyek megl&eacute;te eset&eacute;ben kell, vagy tilos a jogalkot&oacute; &aacute;ltal meghat&aacute;rozott magatart&aacute;sszab&aacute;lyt tan&uacute;s&iacute;tani</li>
+<li>Diszpoz&iacute;ci&oacute; (rendelkez&eacute;s) &ndash; Tartalmazza a k&ouml;vetendő magatart&aacute;st, melyet a jogalkot&oacute; a jogalany sz&aacute;m&aacute;ra elő&iacute;r arra az esetre, ha a hipot&eacute;zisben k&ouml;r&uuml;l&iacute;rt felt&eacute;telek fenn&aacute;llnak.</li>
+<li>Szankci&oacute; (b&uuml;ntet&eacute;s vagy k&ouml;vetkezm&eacute;ny) &ndash; a norma megszeg&eacute;se eset&eacute;n alkalmazand&oacute;.</li>
+</ol>
+<p>&nbsp;</p>
+<ol>
+<li>Parancs &rarr; Imperat&iacute;v szab&aacute;ly</li>
+<li>Tilt&aacute;s &rarr; Kogens szab&aacute;ly</li>
+<li>Megenged&eacute;s &rarr; Diszpozit&iacute;v szab&aacute;ly</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol start="7">
+<li>Alkotm&aacute;ny (Alapt&ouml;rv&eacute;ny)</li>
+</ol>
+<p>&nbsp;</p>
+<p>Az &aacute;llam <strong>legmagasabb</strong> szintű jogszab&aacute;lya, amely <strong>meghat&aacute;rozza</strong> az <strong>&aacute;llamszervezet</strong> fel&eacute;p&iacute;t&eacute;s&eacute;t &eacute;s műk&ouml;d&eacute;s&eacute;t, a <strong>hatalmi</strong> <strong>&aacute;gak</strong> (t&ouml;rv&eacute;nyhoz&aacute;s, v&eacute;grehajt&oacute;, b&iacute;r&oacute;i &aacute;g) elv&aacute;laszt&aacute;s&aacute;t &eacute;s az <strong>&aacute;llampolg&aacute;rok</strong> <u>alapvető jogokat</u>. Magyarorsz&aacute;g Alapt&ouml;rv&eacute;ny&eacute;t 2011-ben fogadt&aacute;k el.</p>
+<p>&nbsp;</p>
+<ol start="8">
+<li>Jogalany</li>
+</ol>
+<p>&nbsp;</p>
+<p>Azok a <strong>szem&eacute;lyek</strong> vagy <strong>szervezetek</strong>, akik <strong>jogokkal</strong> &eacute;s <strong>k&ouml;telezetts&eacute;gekkel</strong> <u>rendelkezhetnek</u>. Fajt&aacute;i:</p>
+<ul>
+<li>Term&eacute;szetes szem&eacute;lyek (emberek).</li>
+<li>Jogi szem&eacute;lyek (pl. c&eacute;gek, egyes&uuml;letek, &aacute;llami szervek).</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="9">
+<li>Jogk&eacute;pess&eacute;g</li>
+</ol>
+<p>&nbsp;</p>
+<p>Az a <strong>k&eacute;pess&eacute;g</strong>, hogy egy <strong>szem&eacute;ly</strong> vagy <strong>szervezet</strong>, <strong>jogok</strong> &eacute;s <strong>k&ouml;telezetts&eacute;gek</strong> <strong>alanya</strong> <strong>lehet</strong>. Minden ember <strong>sz&uuml;let&eacute;s&eacute;től</strong> <strong>hal&aacute;l&aacute;ig</strong> <strong>jogk&eacute;pes</strong>.</p>
+<p>&nbsp;</p>
+<ol start="10">
+<li>Cselekvők&eacute;pess&eacute;g</li>
+</ol>
+<p>&nbsp;</p>
+<p>A szem&eacute;ly &ouml;n&aacute;ll&oacute; <strong>jognyilatkozatra</strong> val&oacute; k&eacute;pess&eacute;ge.</p>
+<ul>
+<li><u>Teljesen cselekvők&eacute;pes</u>: &ouml;n&aacute;ll&oacute;an k&ouml;thet szerződ&eacute;seket.</li>
+<li><u>Korl&aacute;tozottan cselekvők&eacute;pes</u>: pl. 14-18 &eacute;v k&ouml;z&ouml;ttiek, csak bizonyos &uuml;gyekben j&aacute;rhatnak el &ouml;n&aacute;ll&oacute;an.</li>
+<li><u>Cselekvők&eacute;ptelen</u>: pl. s&uacute;lyos ment&aacute;lis betegs&eacute;g eset&eacute;n.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="11">
+<li>K&ouml;telmi jog</li>
+</ol>
+<p>A k&ouml;telem a <strong>polg&aacute;ri jog</strong> egy <strong>jogviszonya</strong>, amelyben az egyik f&eacute;l (<strong>k&ouml;telezett</strong>) valamire k&ouml;teles, a m&aacute;sik f&eacute;l (<strong>jogosult</strong>) pedig jogosult ennek teljes&iacute;t&eacute;s&eacute;t k&ouml;vetelni. A k&ouml;telem alapvetően <strong>k&eacute;toldal&uacute; jogviszony</strong>, de <strong>lehet</strong> <strong>t&ouml;bbalany&uacute;</strong> is.</p>
+<p>&nbsp;</p>
+<ol start="12">
+<li>Dologi jog</li>
+</ol>
+<p>A dologi jog a <strong>mag&aacute;njog</strong> egyik &aacute;ga, amely a <strong>vagyont&aacute;rgyak</strong> (dolgok) feletti <strong>tulajdonjogot</strong>, valamint a <strong>korl&aacute;tozott</strong> dologi jogokat szab&aacute;lyozza &eacute;s <strong>mindenkivel szemben &eacute;rv&eacute;nyes&iacute;thető.</strong></p>
+<p>&nbsp;</p>
+<ol start="13">
+<li>Tulajdonjog</li>
+</ol>
+<p>A tulajdonjog a <strong>teljes dologi jogok k&ouml;z&eacute; tartozik</strong>, amely a tulajdonos sz&aacute;m&aacute;ra <strong>kiz&aacute;r&oacute;lagos jogot biztos&iacute;t a dolog birtokl&aacute;s&aacute;ra</strong>, haszn&aacute;lat&aacute;ra, hasznainak szed&eacute;s&eacute;re, valamint rendelkez&eacute;s&eacute;re. Ez a jog mindenkivel szemben &eacute;rv&eacute;nyes&iacute;thető, ugyanakkor a jogszab&aacute;lyok bizonyos korl&aacute;tokat &eacute;s k&ouml;telezetts&eacute;geket &aacute;llap&iacute;tanak meg a tulajdonos sz&aacute;m&aacute;ra.</p>
+<p>A tulajdonos jogai egy dolog felett:</p>
+<ul>
+<li>Birtokl&aacute;s</li>
+<li>Haszn&aacute;lat</li>
+<li>Rendelkez&eacute;s (pl. elad&aacute;s, aj&aacute;nd&eacute;koz&aacute;s)</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="14">
+<li>Szerződ&eacute;s</li>
+</ol>
+<p>&nbsp;</p>
+<p>K&eacute;t vagy t&ouml;bb f&eacute;l k&ouml;z&ouml;tti <strong>meg&aacute;llapod&aacute;s</strong>, amely <strong>jogokat</strong> &eacute;s <strong>k&ouml;telezetts&eacute;geket</strong> keletkeztet. Pl.:</p>
+<ul>
+<li>Ad&aacute;sv&eacute;teli szerződ&eacute;s</li>
+<li>B&eacute;rleti szerződ&eacute;s</li>
+<li>Munkaszerződ&eacute;s</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="15">
+<li>B&uuml;ntetőjog</li>
+</ol>
+<p>&nbsp;</p>
+<p>Az a jog&aacute;g, amely <strong>meghat&aacute;rozza</strong> a <strong>bűncselekm&eacute;nyeket</strong> &eacute;s azok <strong>jogk&ouml;vetkezm&eacute;nyeit</strong> (b&uuml;ntet&eacute;seket).</p>
+<p>&nbsp;</p>
+<ol start="16">
+<li>Bűncselekm&eacute;ny</li>
+</ol>
+<p>&nbsp;</p>
+<p>Olyan <strong>jogellenes</strong> &eacute;s bűn&ouml;s cselekm&eacute;ny, amelyre a <strong>B&uuml;ntető</strong> <strong>T&ouml;rv&eacute;nyk&ouml;nyv</strong> <strong>b&uuml;ntet&eacute;st</strong> rendel. Pl.:</p>
+<ul>
+<li>Lop&aacute;s</li>
+<li>Csal&aacute;s</li>
+<li>Ember&ouml;l&eacute;s</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="17">
+<li>Szankci&oacute;</li>
+</ol>
+<p>&nbsp;</p>
+<p>A <strong>jogszab&aacute;lyok</strong> <strong>megszeg&eacute;se</strong> eset&eacute;n alkalmazott <strong>b&uuml;ntet&eacute;s</strong> vagy <strong>jogh&aacute;tr&aacute;ny</strong>. Lehet p&eacute;ld&aacute;ul p&eacute;nzb&iacute;rs&aacute;g, szabads&aacute;gveszt&eacute;s, k&aacute;rt&eacute;r&iacute;t&eacute;s.</p>
+<p>&nbsp;</p>
+<ol start="18">
+<li>K&aacute;rt&eacute;r&iacute;t&eacute;s</li>
+</ol>
+<p>&nbsp;</p>
+<p>A k&aacute;rokoz&oacute; <strong>p&eacute;nzbeli</strong> vagy egy&eacute;b <strong>megt&eacute;r&iacute;t&eacute;si</strong> <strong>k&ouml;telezetts&eacute;ge</strong>, amely a <strong>k&aacute;rosult</strong> vesztes&eacute;g&eacute;t hivatott <strong>kompenz&aacute;lni</strong>.</p>
+<p>&nbsp;</p>
+<ol start="19">
+<li>Jogorvoslat</li>
+</ol>
+<p>&nbsp;</p>
+<p>Az a <strong>lehetős&eacute;g</strong>, amely alapj&aacute;n egy f&eacute;l egy <strong>hat&oacute;s&aacute;gi</strong> vagy <strong>b&iacute;r&oacute;s&aacute;gi</strong> <strong>d&ouml;nt&eacute;st</strong> <strong>megt&aacute;madhat</strong>, pl. fellebbez&eacute;ssel vagy fel&uuml;lvizsg&aacute;lati k&eacute;relemmel.</p>
+<p>&nbsp;</p>
+<ol start="20">
+<li>Joghat&oacute;s&aacute;g</li>
+</ol>
+<p>&nbsp;</p>
+<p>Azt <strong>hat&aacute;rozza</strong> meg, hogy egy adott <strong>jogvita</strong> eset&eacute;n melyik <strong>b&iacute;r&oacute;s&aacute;g</strong> <strong>vagy</strong> <strong>hat&oacute;s&aacute;g</strong> j&aacute;rhat el.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol start="21">
+<li>Jog&aacute;llamis&aacute;g</li>
+</ol>
+<p>&nbsp;</p>
+<p>A <strong>jog</strong> <strong>uralm&aacute;nak</strong> <strong>elve</strong>, amely biztos&iacute;tja, hogy az <strong>&aacute;llami</strong> <strong>szervek</strong> &eacute;s <strong>mag&aacute;nszem&eacute;lyek</strong> <strong>egyar&aacute;nt</strong> a <strong>jogszab&aacute;lyok</strong> szerint <strong>j&aacute;rjanak</strong> el.<br /> </p>
+<ol start="22">
+<li>Polg&aacute;ri jog</li>
+</ol>
+<p>&nbsp;</p>
+<p>A mag&aacute;nszem&eacute;lyek, jogi szem&eacute;lyek &eacute;s m&aacute;s szervezetek <strong>vagyoni &eacute;s szem&eacute;lyi viszonyait</strong> szab&aacute;lyozza.</p>
+<p>&nbsp;</p>
+<ol start="23">
+<li>Alkotm&aacute;nyjog</li>
+</ol>
+<p>&nbsp;</p>
+<p>A <strong>k&ouml;zhatalmi szervek műk&ouml;d&eacute;s&eacute;t &eacute;s az alapvető jogokat</strong> szab&aacute;lyozza.</p>
